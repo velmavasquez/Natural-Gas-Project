@@ -1,0 +1,590 @@
+﻿Major Pipeline Crossing Multiple State Borders (Capacity in MMcfd),,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,Pipeline,Segment,State From,State To,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,2007
+,Algonquin Gas Trans Co,M1,New Jersey,New York,"1,625","1,532","1,492","1,150","1,150","1,150","1,150","1,150","1,150","1,150","1,150","1,150"
+,Algonquin Gas Trans Co,M2,New York,Connecticut,"1,830","1,737","1,697","1,355","1,355","1,355","1,355","1,355","1,355","1,355","1,355","1,030"
+,Algonquin Gas Trans Co,M3,Connecticut,Rhode Island,"1,235","1,142","1,102",760,760,760,760,760,760,760,760,760
+,Algonquin Gas Trans Co,M4,Rhode Island,Massachusetts,"1,180","1,087","1,047",705,705,705,705,705,705,705,705,705
+,Algonquin Gas Trans Co,M4 Back,Massachusetts,Rhode Island,275,275,275,275,275,275,275,275,275,0,0,0
+,Algonquin Gas Trans Co,M3 Back,Rhode Island,Connecticut,275,275,275,275,275,275,275,275,275,0,0,0
+,Algonquin Gas Trans Co,M2 Back,Connecticut,New York,275,275,275,275,275,275,275,275,275,0,0,0
+,Algonquin Gas Trans Co,M1 Back,New York,New Jersey,275,275,275,275,275,275,275,275,275,0,0,0
+,Algonquin Gas Trans Co,Main Line,Max Capacity,,"1,830","1,737","1,697","1,355","1,355","1,355","1,355","1,355","1,355","1,355","1,355","1,150"
+,,,,,,,,,,,,,,,,
+,Alliance Pipeline Co,M1,Saskatchewan,North Dakota,"1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875"
+,Alliance Pipeline Co,M2,North Dakota,Minnesota,"1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875"
+,Alliance Pipeline Co,M3,Minnesota,Iowa,"1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875"
+,Alliance Pipeline Co,M4,Iowa,Illinois,"1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875"
+,Alliance Pipeline Co,Main Line,Max Capacity,,"1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875","1,875"
+,,,,,,,,,,,,,,,,
+,ANR Pipeline Co,GC1,Gulf of Mexico,Louisiana,0,0,0,0,0,0,0,"1,919","1,919","1,919","1,919","1,919"
+,ANR Pipeline Co,GC2,Louisiana,Arkansas,"1,430","1,430","1,430","1,430","1,430","1,430","1,430","1,430","1,430","1,430","1,430","1,430"
+,ANR Pipeline Co,GC3,Arkansas,Mississippi,"1,430","1,430","1,430",,"1,430","1,430","1,430","1,430","1,430","1,430","1,430","1,430"
+,ANR Pipeline Co,GC4,Mississippi,Tennessee,"1,753","1,753","1,753","1,753","1,753","1,753","1,753","1,753","1,753","1,753","1,753","1,753"
+,ANR Pipeline Co,GC5,Tennessee,Kentucky,"1,398","1,398","1,398","1,398","1,398","1,398","1,398","1,398","1,398","1,398","1,398","1,398"
+,ANR Pipeline Co,GC6,Kentucky,Indiana,"1,386","1,386","1,386","1,386","1,386","1,386","1,386","1,386","1,386","1,386","1,386","1,386"
+,ANR Pipeline Co,GC7,Indiana,Ohio,"1,748","1,748","1,748","1,748","1,748","1,748","1,748","1,748","1,748","1,748","1,748","1,748"
+,ANR Pipeline Co,CG8,Ohio,Michigan,932,932,932,932,932,932,932,932,932,932,932,932
+,ANR Pipeline Co,CG8 Back,Michigan,Ohio,100,100,100,100,100,100,100,100,100,100,100,100
+,ANR Pipeline Co,GC7 Back,Ohio,Indiana,452,452,452,452,318,318,318,318,318,318,318,318
+,ANR Pipeline Co,GC6 Back,Indiana,Kentucky,750,750,750,750,0,0,0,0,0,0,0,0
+,ANR Pipeline Co,GC5 Back,Kentucky,Tennessee,750,750,750,750,0,0,0,0,0,0,0,0
+,ANR Pipeline Co,GC4 Back,Tennessee,Mississippi,"1,375","1,375",750,750,0,0,0,0,0,0,0,0
+,ANR Pipeline Co,GC3 Back,Mississippi,Arkansas,"1,150","1,150",750,750,0,0,0,0,0,0,0,0
+,ANR Pipeline Co,GC2 Back,Arkansas,Louisiana,"1,150","1,150",750,750,0,0,0,0,0,0,0,0
+,ANR Pipeline Co,Gulf Coast Line,Max Capacity (Northward),,"1,753","1,753","1,753","1,753","1,753","1,753","1,753","1,919","1,919","1,919","1,919","1,919"
+,ANR Pipeline Co,Gulf Coast Line,Max Capacity (Southward),,"1,375","1,375",750,750,0,0,0,0,0,0,0,0
+,ANR Pipeline Co,MC1,Texas,Oklahoma,580,580,580,580,580,580,580,580,580,580,580,580
+,ANR Pipeline Co,MC2,Oklahoma,Kansas,853,853,853,853,853,853,853,853,853,853,853,853
+,ANR Pipeline Co,MC3,Kansas,Nebraska,693,693,693,693,693,693,693,693,693,693,693,693
+,ANR Pipeline Co,MC4,Nebraska,Missouri,693,693,693,693,693,693,693,693,693,693,693,693
+,ANR Pipeline Co,MC5,Missouri,Iowa,680,680,680,680,680,680,680,680,680,680,680,680
+,ANR Pipeline Co,MC6,Iowa,Illinois,653,653,653,653,653,653,653,653,653,653,653,653
+,ANR Pipeline Co,Midcontinent Line,Max Capacity (Eastward),,853,853,853,853,853,853,853,853,853,853,853,853
+,ANR Pipeline Co,NC1,Michigan,Indiana,"1,567","1,567","1,567","1,567","1,567","1,567","1,567","1,567","1,567","1,567","1,567","1,567"
+,ANR Pipeline Co,NC2,Indiana,Illinois,"1,384","1,384","1,384","1,384","1,384","1,384","1,384","1,384","1,384","1,384","1,384","1,384"
+,ANR Pipeline Co,NC3,Illinois,Wisconsin,"1,841","1,610","1,610","1,610","1,610","1,610","1,610","1,610","1,610","1,610","1,610","1,610"
+,ANR Pipeline Co,NC4,Wisconsin,Michigan,148,148,148,148,148,148,148,148,148,148,148,148
+,ANR Pipeline Co,NC4 Back,Michigan,Wisconsin,860,860,860,860,860,860,860,860,860,860,860,860
+,ANR Pipeline Co,NC3 Back,Wisconsin,Illinois,700,700,700,700,700,700,700,700,700,700,700,700
+,ANR Pipeline Co,NC2 Back,Illinois,Indiana,"1,384","1,384","1,384","1,384","1,384","1,384","1,384","1,384","1,384","1,384","1,384","1,384"
+,ANR Pipeline Co,NC1 Back,Indiana,Michigan,"1,520","1,520","1,520","1,520","1,520","1,520","1,520","1,520","1,520","1,520","1,520","1,520"
+,ANR Pipeline Co,Northern Central,Max Capacity (Westward - Clockwise),,"1,841","1,610","1,610","1,610","1,610","1,610","1,610","1,610","1,610","1,610","1,610","1,610"
+,ANR Pipeline Co,Northern Central,Max Capacity (Eastward - Counterclockwise),,"1,520","1,520","1,520","1,520","1,520","1,520","1,520","1,520","1,520","1,520","1,520","1,520"
+,,,,,,,,,,,,,,,,
+,Colorado Interstate Gas,RM1,Utah,Colorado,165,165,165,165,165,165,165,165,165,165,165,165
+,Colorado Interstate Gas,RM2,Colorado,Wyoming,180,180,180,180,180,180,180,180,180,180,180,180
+,Colorado Interstate Gas,RM3,Wyoming,Montana,60,60,60,60,60,60,60,60,60,60,60,60
+,Colorado Interstate Gas,RM4,Wyoming,Colorado,625,625,625,625,625,625,625,625,625,625,625,625
+,Colorado Interstate Gas,Rocky Mountain Lines,Max Capacity,,625,625,625,625,625,625,625,625,625,625,625,625
+,Colorado Interstate Gas,CO1,Colorado,Oklahoma,514,514,514,514,514,514,514,514,514,514,514,514
+,Colorado Interstate Gas,CO2,Oklahoma,Texas,284,284,284,284,284,284,284,284,284,284,284,284
+,Colorado Interstate Gas,CO3,Colorado,Kansas,463,463,463,463,463,463,463,463,463,463,463,463
+,Colorado Interstate Gas,CO4,Kansas,Oklahoma,323,323,323,323,323,323,323,323,323,323,323,323
+,Colorado Interstate Gas,CO3 Back,Kansas,Colorado,340,340,340,340,340,340,340,340,340,340,340,340
+,Colorado Interstate Gas,CO2 Back,Texas,Oklahoma,200,200,200,200,200,200,200,200,200,200,200,200
+,Colorado Interstate Gas,CO1 Back,Oklahoma,Colorado,200,200,200,200,200,200,200,200,200,200,200,200
+,Colorado Interstate Gas,Colorado Lines,Max Capacity (Southward),,514,514,514,514,514,514,514,514,514,514,514,514
+,Colorado Interstate Gas,Colorado Lines,Max Capacity (Northward),,340,340,340,340,340,340,340,340,340,340,340,340
+,,,,,,,,,,,,,,,,
+,Columbia Gas Trans Corp,C1,Kentucky,West Virginia,"2,162","2,162","2,162","2,162","2,162","2,162","2,162","2,162","2,162","2,162","2,162","2,162"
+,Columbia Gas Trans Corp,C2,West Virginia,Ohio,"3,126",896,896,896,896,896,896,896,896,896,896,896
+,Columbia Gas Trans Corp,C3,West Virginia,Pennsylvania,"1,275","1,275","1,275","1,275","1,275","1,275","1,275","1,275","1,275","1,275","1,275","1,275"
+,Columbia Gas Trans Corp,C4,West Virginia,Virginia,"2,644","2,144","2,144","2,144","2,144","2,144","2,144","2,144","2,144","2,144","2,144","2,144"
+,Columbia Gas Trans Corp,C5,Virginia,Maryland,"1,680","1,180","1,180","1,180","1,180","1,180","1,180","1,180","1,180","1,180","1,180","1,180"
+,Columbia Gas Trans Corp,C6,Pennsylvania,Maryland,57,57,57,57,57,57,57,57,57,57,57,57
+,Columbia Gas Trans Corp,C7,Pennsylvania,New Jersey,423,423,423,423,261,261,261,261,261,261,261,261
+,Columbia Gas Trans Corp,C8,Pennsylvania,New York,281,281,281,281,131,131,131,131,131,131,131,131
+,Columbia Gas Trans Corp,C9,Pennsylvania,Delaware,174,174,174,174,174,174,174,174,174,174,174,174
+,Columbia Gas Trans Corp,C10,Delaware,New Jersey,141,141,141,141,141,141,141,141,141,141,141,141
+,Columbia Gas Trans Corp,C6 Back,Maryland,Pennsylvania,206,206,206,206,206,206,206,206,206,206,206,206
+,Columbia Gas Trans Corp,C3 Back,Pennsylvania,West Virginia,"3,880","2,380","2,380","2,380","1,539","1,095","1,095","1,095","1,095","1,095","1,095","1,095"
+,Columbia Gas Trans Corp,C1 Back,West Virginia,Kentucky,"1,799","1,799","1,799","1,361",520,520,76,76,76,76,76,76
+,Columbia Gas Trans Corp,Columbia Gas System,Max Capacity,,"3,880","2,380","2,380","2,380","2,162","2,162","2,162","2,162","2,162","2,162","2,162","2,162"
+,,,,,,,,,,,,,,,,
+,Columbia Gulf Trans Co,M1,Gulf of Mexico,Louisiana,0,0,0,0,0,0,0,0,0,0,"1,210","1,210"
+,Columbia Gulf Trans Co,M2,Louisiana,Mississippi,"2,576","2,576","2,576","2,576","2,576","2,576","2,576","2,576","2,576","2,576","2,576","2,576"
+,Columbia Gulf Trans Co,M3,Mississippi,Tennessee,"2,268","2,268","2,268","2,268","2,268","2,268","2,268","2,268","2,268","2,268","2,268","2,268"
+,Columbia Gulf Trans Co,M4,Tennessee,Kentucky,"2,317","2,317","2,317","2,317","2,317","2,317","2,317","2,317","2,317","2,317","2,317","2,317"
+,Columbia Gulf Trans Co,M4 Back,Kentucky,Tennessee,"1,856","1,856","1,317",908,540,540,0,0,0,0,0,0
+,Columbia Gulf Trans Co,M3 Back,Tennessee,Mississippi,"1,852","1,852","1,313",908,540,540,0,0,0,0,0,0
+,Columbia Gulf Trans Co,Main Line,Max Capacity (Southward),,"1,856","1,856","1,317",908,540,540,0,0,0,0,0,0
+,Columbia Gulf Trans Co,Main Line,Max Capacity (Northward),,"2,576","2,576","2,576","2,576","2,576","2,576","2,576","2,576","2,576","2,576","2,576","2,576"
+,,,,,,,,,,,,,,,,
+,Dominion Cove Point LNG LP,M1,Maryland,Virginia,"1,385","1,385","1,385","1,385","1,385","1,385","1,385","1,385","1,385","1,385","1,385",585
+,Dominion Cove Point LNG LP,M1 Back,Virginia,Maryland,"1,257","1,257","1,150","1,018","1,018","1,018","1,018","1,018","1,018","1,018","1,018","1,018"
+,Dominion Cove Point LNG LP,Main Line,Max Capacity (Eastward),,"1,385","1,385","1,385","1,385","1,385","1,385","1,385","1,385","1,385","1,385","1,385",585
+,Dominion Cove Point LNG LP,Main Line,Max Capacity (Westward ),,"1,257","1,257","1,150","1,018","1,018","1,018","1,018","1,018","1,018","1,018","1,018","1,018"
+,,,,,,,,,,,,,,,,
+,Dominion Transmission Co,M1,West Virginia,Ohio,959,959,959,709,709,709,709,709,709,709,709,709
+,Dominion Transmission Co,M2,Ohio,Pennsylvania,560,560,560,560,560,560,560,560,560,560,560,560
+,Dominion Transmission Co,M3,West Virginia,Pennsylvania,"1,469","1,469","1,469","1,469","1,469","1,284","1,284",800,800,800,800,800
+,Dominion Transmission Co,M4,Pennsylvania,New York,"1,113","1,113","1,001","1,001","1,001","1,001","1,001","1,151","1,151","1,151","1,151","1,151"
+,Dominion Transmission Co,M5,Pennsylvania,Maryland,924,924,769,769,769,769,769,769,769,769,769,769
+,Dominion Transmission Co,M6,Maryland,Virginia,622,622,467,467,467,467,467,467,467,467,467,467
+,Dominion Transmission Co,M6 Back,Virginia,Maryland,700,700,700,700,700,700,700,700,700,700,700,0
+,Dominion Transmission Co,M5 Back,Maryland,Pennsylvania,700,700,700,700,700,700,700,700,700,700,700,0
+,Dominion Transmission Co,M4 Back,New York,Pennsylvania,150,150,150,150,150,150,150,150,150,150,150,150
+,Dominion Transmission Co,M3 Back,Pennsylvania,West Virginia,245,245,245,245,245,245,245,245,245,21,21,21
+,Dominion Transmission Co,M2 Back,Pennsylvania,Ohio,595,595,595,465,465,465,465,465,465,465,465,465
+,Dominion Transmission Co,Main Line,Max Capacity (West),,"1,469","1,469","1,469","1,469","1,469","1,284","1,284","1,151","1,151","1,151","1,151","1,151"
+,Dominion Transmission Co,Main Line,Max Capacity (Eastward ),,700,700,700,700,700,700,700,700,700,700,700,465
+,,,,,,,,,,,,,,,,
+,East Tennessee Nat Gas Co,M1,Tennessee,Georgia,222,222,222,222,222,222,222,222,222,222,222,222
+,East Tennessee Nat Gas Co,M2,Tennessee,Virginia,70,70,70,70,70,70,70,70,70,70,70,70
+,East Tennessee Nat Gas Co,L1,Virginia,North Carolina,570,570,570,570,570,570,570,570,570,570,570,315
+,East Tennessee Nat Gas Co,M2 Back,Virginia,Tennessee,220,220,220,220,220,220,220,220,70,70,70,70
+,East Tennessee Nat Gas Co,Main Line,Max Capacity (Eastward ),,222,222,222,222,222,222,222,222,222,222,222,222
+,East Tennessee Nat Gas Co,Main Line,Max Capacity (Westward ),,570,570,220,220,220,220,220,220,70,70,70,70
+,East Tennessee Nat Gas Co,Transco Lateral,Max Capacity,,570,570,570,570,570,570,570,570,570,570,570,315
+,,,,,,,,,,,,,,,,
+,El Paso Nat Gas Co,M1,Texas,New Mexico,"3,252","3,070","3,070","3,070","3,070","3,070","3,070","3,070","3,070","3,070","3,070","3,070"
+,El Paso Nat Gas Co,M2,New Mexico,Arizona,"4,679","4,497","4,497","4,497","4,497","4,497","4,497","4,497","4,685","4,685","4,685","4,685"
+,El Paso Nat Gas Co,M3,Arizona,California,"4,174","3,992","3,992","3,992","3,992","3,992","3,992","3,992","3,992","3,992","3,992","3,992"
+,El Paso Nat Gas Co,L1,Oklahoma,Texas,250,250,250,250,250,250,250,250,250,250,250,250
+,El Paso Nat Gas Co,L2,Colorado,New Mexico,790,790,790,790,790,790,790,790,790,790,790,790
+,El Paso Nat Gas Co,L3,Texas,Mexico,910,910,910,910,910,910,308,308,308,308,308,308
+,El Paso Nat Gas Co,L4,Arizona,Mexico,512,512,512,489,489,489,489,251,251,251,251,251
+,El Paso Nat Gas Co,L1 Back,Texas,Oklahoma,152,152,152,152,152,152,152,152,152,152,152,152
+,El Paso Nat Gas Co,M1 Back,New Mexico,Texas,700,700,700,700,700,700,700,700,700,700,700,700
+,El Paso Nat Gas Co,Main Line,Max Capacity (West),,"4,679","4,497","4,497","4,497","4,497","4,497","4,497","4,497","4,685","4,685","4,685","4,685"
+,,,,,,,,,,,,,,,,
+,Empire Pipeline Inc,M1,Ontario,New York,750,750,750,750,750,750,750,750,750,750,750,525
+,Empire Pipeline Inc,L1,Pennsylvania,New York,350,350,350,350,350,350,350,350,0,0,0,0
+,Empire Pipeline Inc,L1 Back,New York,Ontario,350,350,350,350,350,350,350,350,0,0,0,0
+,Empire Pipeline Inc,Main Line,Max Capacity (West),,750,750,750,750,750,750,750,750,750,750,750,525
+,,,,,,,,,,,,,,,,
+,"Enable Gas Transmission, LLC",M1,Texas,Oklahoma,100,100,100,100,100,100,100,100,100,100,100,100
+,"Enable Gas Transmission, LLC",M2,Oklahoma,Kansas,40,40,40,40,40,40,40,40,40,40,40,40
+,"Enable Gas Transmission, LLC",M3,Oklahoma,Arkansas,"1,786","1,786","1,786","1,786","1,786","1,786","1,786","1,786","1,786","1,786","1,654","1,654"
+,"Enable Gas Transmission, LLC",M4,Arkansas,Missouri,100,100,100,100,100,100,100,100,100,100,100,100
+,"Enable Gas Transmission, LLC",M5,Arkansas,Texas,150,150,150,150,150,150,150,150,150,150,150,150
+,"Enable Gas Transmission, LLC",M6,Texas,Louisiana,"2,087","2,087","2,087","2,087","2,087","2,087","2,087","2,087","2,087","1,813","1,813","1,497"
+,"Enable Gas Transmission, LLC",M7,Tennessee,Arkansas,25,25,25,25,25,25,25,25,25,25,25,25
+,"Enable Gas Transmission, LLC",M8,Louisiana,Arkansas,135,135,135,135,135,135,135,135,135,135,135,135
+,"Enable Gas Transmission, LLC",M8 Back,Arkansas,Louisiana,156,156,156,156,156,156,156,156,156,156,156,156
+,"Enable Gas Transmission, LLC",M6 Back,Louisiana,Texas,25,25,25,25,25,25,25,25,25,25,25,25
+,"Enable Gas Transmission, LLC",M4 Back,Missouri,Arkansas,25,25,25,25,25,25,25,25,25,25,25,25
+,"Enable Gas Transmission, LLC",M1 Back,Oklahoma,Texas,512,112,112,112,112,112,112,112,112,112,112,112
+,"Enable Gas Transmission, LLC",Enable Gas System,Max Capacity,0,"2,087","2,087","2,087","2,087","2,087","2,087","2,087","2,087","2,087","1,813","1,813","1,654"
+,,,,,,,,,,,,,,,,
+,"Enable Mississippi River Transmission, LLC",M1,Texas,Louisiana,85,85,85,85,85,85,85,85,85,85,85,85
+,"Enable Mississippi River Transmission, LLC",M2,Louisiana,Arkansas,730,730,730,730,730,730,730,730,730,730,730,730
+,"Enable Mississippi River Transmission, LLC",M3,Arkansas,Missouri,730,730,730,730,730,730,730,730,730,730,730,730
+,"Enable Mississippi River Transmission, LLC",M4,Missouri,Illinois,715,715,715,715,715,715,715,715,715,715,715,715
+,"Enable Mississippi River Transmission, LLC",M4 Back,Illinois,Missouri,870,870,870,870,870,870,870,870,870,870,870,870
+,"Enable Mississippi River Transmission, LLC",M2 Back,Arkansas,Louisiana,550,550,550,550,550,550,550,550,550,550,550,550
+,"Enable Mississippi River Transmission, LLC",MRT System,Max Capacity,,870,870,870,870,870,870,870,870,870,870,870,870
+,,,,,,,,,,,,,,,,
+,Equitrans Inc,M1,West Virginia,Ohio,850,850,850,0,0,0,0,0,0,0,0,0
+,Equitrans Inc,M2,West Virginia,Pennsylvania,934,934,934,934,934,934,934,410,410,333,333,333
+,Equitrans Inc,M2 Back,Pennsylvania,West Virginia,70,70,70,70,70,70,70,70,70,70,70,70
+,Equitrans Inc,EQT System,Max Capacity,,934,934,934,934,934,934,934,410,410,333,333,333
+,,,,,,,,,,,,,,,,
+,Florida Gas Trans Co,M1,Texas,Louisiana,320,320,320,320,320,320,320,320,320,320,320,320
+,Florida Gas Trans Co,M2,Louisiana,Mississippi,"1,300","1,300","1,300","1,300","1,300","1,300","1,300","1,300","1,300","1,300","1,300","1,300"
+,Florida Gas Trans Co,M3,Mississippi,Alabama,"1,952","1,883","1,883","1,883","1,883","1,883","1,883","1,883","1,883","1,883","1,883","1,883"
+,Florida Gas Trans Co,M4,Alabama,Florida,"3,235","3,175","3,175","3,175","3,175","3,175","3,175","3,175","2,224","2,224","2,224","2,224"
+,Florida Gas Trans Co,Main Line,Max Capacity,,"3,235","3,175","3,175","3,175","3,175","3,175","3,175","3,175","2,224","2,224","2,224","2,224"
+,,,,,,,,,,,,,,,,
+,Gas Transmission Northwest,M1,British Columbia,Idaho,"2,741","2,741","2,741","2,741","2,741","2,741","2,741","2,741","2,741","2,741","2,741","2,741"
+,Gas Transmission Northwest,M2,Idaho,Washington,"2,561","2,561","2,561","2,561","2,561","2,561","2,561","2,561","2,561","2,561","2,561","2,561"
+,Gas Transmission Northwest,M3,Washington,Oregon,"2,131","2,131","2,131","2,131","2,131","2,131","2,131","2,131","2,131","2,131","2,131","2,131"
+,Gas Transmission Northwest,M4,Oregon,California,"2,071","2,071","2,071","2,071","2,071","2,071","2,071","2,071","2,071","2,071","2,071","2,071"
+,Gas Transmission Northwest,Main Line,Max Capacity,,"2,741","2,741","2,741","2,741","2,741","2,741","2,741","2,741","2,741","2,741","2,741","2,741"
+,,,,,,,,,,,,,,,,
+,Great Lakes Gas Trans Ltd,M1,Manitoba,Minnesota,"2,412","2,412","2,412","2,412","2,412","2,412","2,412","2,412","2,412","2,412","2,412","2,412"
+,Great Lakes Gas Trans Ltd,M2,Minnesota,Wisconsin,"2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226"
+,Great Lakes Gas Trans Ltd,M3,Wisconsin,Michigan,"2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226"
+,Great Lakes Gas Trans Ltd,M4,Michigan,Ontario,"1,799","1,799","1,799","1,799","1,799","1,799","1,799","1,799","1,799","1,799","1,799","1,799"
+,Great Lakes Gas Trans Ltd,M4 Back,Ontario,Michigan,"1,482","1,482","1,482","1,482","1,482","1,482","1,482","1,482","1,482","1,482","1,482","1,482"
+,Great Lakes Gas Trans Ltd,M3 Back,Michigan,Wisconsin,"2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226"
+,Great Lakes Gas Trans Ltd,M2 Back,Wisconsin,Minnesota,"2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226"
+,Great Lakes Gas Trans Ltd,M1 Back,Minnesota,Manitoba,713,713,713,713,713,713,713,713,0,0,0,0
+,Great Lakes Gas Trans Ltd,Main Line,Max Capacity (Eastward),,"2,412","2,412","2,412","2,412","2,412","2,412","2,412","2,412","2,412","2,412","2,412","2,412"
+,Great Lakes Gas Trans Ltd,Main Line,Max Capacity (Westward),,"2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226","2,226"
+,,,,,,,,,,,,,,,,
+,Gulf Crossing Pipeline,M1,Oklahoma,Texas,"1,726","1,726","1,726","1,726","1,726","1,726","1,726","1,726","1,726","1,726",0,0
+,Gulf Crossing Pipeline,M2,Texas,Louisiana,"1,726","1,726","1,726","1,726","1,726","1,726","1,726","1,726","1,726","1,726",0,0
+,Gulf Crossing Pipeline,Main Line,Max Capacity,,"1,726","1,726","1,726","1,726","1,726","1,726","1,726","1,726","1,726","1,726",0,0
+,,,,,,,,,,,,,,,,
+,Gulf South Pipeline Co,M1,Texas,Louisiana,"3,203","3,203","3,203","3,203","3,203","3,203","3,203","3,203","3,203","2,647","2,647",947
+,Gulf South Pipeline Co,M2,Louisiana,Mississippi,"3,296","3,296","3,296","3,296","3,296","3,296","3,296","3,296","3,296","2,730","2,730","1,030"
+,Gulf South Pipeline Co,M3,Mississippi,Alabama,"2,983","2,983","2,983","2,983","2,983","2,472","2,472","2,472","2,472","2,472","2,472",950
+,Gulf South Pipeline Co,M4,Alabama,Florida,190,190,190,190,190,190,190,190,190,190,190,190
+,Gulf South Pipeline Co,M3 Back,Alabama,Mississippi,200,200,200,200,200,200,200,200,200,200,200,200
+,Gulf South Pipeline Co,M2 Back,Mississippi,Louisiana,310,310,310,310,310,310,310,310,310,310,310,310
+,Gulf South Pipeline Co,M1 Back,Louisiana,Texas,20,20,20,20,20,20,20,20,20,20,20,20
+,Gulf South Pipeline Co,Gulf South System,Max Capacity,,"3,296","3,296","3,296","3,296","3,296","3,296","3,296","3,296","3,296","2,730","2,730","1,030"
+,,,,,,,,,,,,,,,,
+,Gulfstream Natural Gas System (via the Gulf of Mexico),M1,Alabama,Florida,"1,285","1,285","1,285","1,285","1,285","1,285","1,285","1,285","1,285","1,285","1,285","1,130"
+,Gulfstream Natural Gas System (via the Gulf of Mexico),Main Line,Max Capacity,,"1,285","1,285","1,285","1,285","1,285","1,285","1,285","1,285","1,285","1,285","1,285","1,130"
+,,,,,,,,,,,,,,,,
+,Iroquois Pipeline Co,M1,Ontario,New York,"1,150","1,150","1,150","1,150","1,150","1,150","1,150","1,150","1,150","1,150","1,150","1,150"
+,Iroquois Pipeline Co,M2,New York,Connecticut,866,866,866,866,866,866,866,866,866,866,866,773
+,Iroquois Pipeline Co,M3,Connecticut,New York,620,620,620,620,620,620,620,620,620,620,520,420
+,Iroquois Pipeline Co,Main Line,Max Capacity,,"1,150","1,150","1,150","1,150","1,150","1,150","1,150","1,150","1,150","1,150","1,150","1,150"
+,,,,,,,,,,,,,,,,
+,Kern River Gas Trans Co,M1,Wyoming,Utah,"2,276","2,276","2,276","2,276","2,276","2,276","2,276","2,276","2,010","1,865","1,865","1,865"
+,Kern River Gas Trans Co,M2,Utah,Nevada,"2,445","2,445","2,445","2,445","2,445","2,445","2,445","2,445","2,179","2,034","2,034","2,034"
+,Kern River Gas Trans Co,M3,Nevada,California,"2,146","2,146","2,146","2,146","2,146","2,146","2,146","2,146","1,880","1,735","1,735","1,735"
+,Kern River Gas Trans Co,Main Line,Max Capacity,,"2,445","2,445","2,445","2,445","2,445","2,445","2,445","2,445","2,179","2,034","2,034","2,034"
+,,,,,,,,,,,,,,,,
+,Maritimes/Northeast PL Co,M1,New Brunswick,Maine,833,833,833,833,833,833,833,833,833,833,415,415
+,Maritimes/Northeast PL Co,M2,Maine,New Hampshire,835,833,833,833,833,833,833,833,833,833,628,628
+,Maritimes/Northeast PL Co,M3,New Hampshire,Massachusetts,835,833,833,833,833,833,833,833,833,833,628,628
+,Maritimes/Northeast PL Co,M1 Back,Maine,New Brunswick,833,833,833,833,833,833,833,833,833,833,415,415
+,Maritimes/Northeast PL Co,Main Line,Max Capacity (Northward),,833,833,833,833,833,833,833,833,833,833,415,415
+,Maritimes/Northeast PL Co,Main Line,Max Capacity (Southward),,835,833,833,833,833,833,833,833,833,833,628,628
+,,,,,,,,,,,,,,,,
+,Midcontinent Express Pipeline LLC,M1,Oklahoma,Texas,"1,833","1,833","1,833","1,833","1,833","1,833","1,833","1,833","1,833","1,533",0,0
+,Midcontinent Express Pipeline LLC,M2,Texas,Louisiana,"1,833","1,833","1,833","1,833","1,833","1,833","1,833","1,833","1,833","1,533",0,0
+,Midcontinent Express Pipeline LLC,M3,Louisiana,Mississippi,"1,533","1,533","1,533","1,533","1,533","1,533","1,533","1,533","1,533","1,533",0,0
+,Midcontinent Express Pipeline LLC,M4,Mississippi,Alabama,"1,533","1,533","1,533","1,533","1,533","1,533","1,533","1,533","1,533","1,533",0,0
+,Midcontinent Express Pipeline LLC,Main Line,Max Capacity,,"1,833","1,833","1,833","1,833","1,833","1,833","1,833","1,833","1,833","1,533",0,0
+,,,,,,,,,,,,,,,,
+,Midwestern Gas Trans Co,M1,Tennessee,Kentucky,665,665,665,665,665,665,665,665,665,665,665,665
+,Midwestern Gas Trans Co,M2,Kentucky,Indiana,664,664,664,664,664,664,664,664,664,664,664,664
+,Midwestern Gas Trans Co,M3,Indiana,Illinois,500,500,500,500,500,500,500,500,500,650,650,650
+,Midwestern Gas Trans Co,M3 Back,Illinois,Indiana,715,715,715,715,715,715,715,715,715,565,565,565
+,Midwestern Gas Trans Co,M2 Back,Indiana,Kentucky,350,350,350,350,350,350,350,350,350,350,350,350
+,Midwestern Gas Trans Co,M1 Back,Kentucky,Tennessee,350,350,350,350,350,350,350,350,350,350,350,350
+,Midwestern Gas Trans Co,Main Line,Max Capacity (Northward),,665,665,665,665,665,665,665,665,665,665,665,665
+,Midwestern Gas Trans Co,Main Line,Max Capacity (Southward),,715,715,715,715,715,715,715,715,715,565,565,565
+,,,,,,,,,,,,,,,,
+,Nat Gas P L Co Of America,MC1,Texas,New Mexico,550,550,550,550,550,550,550,550,550,550,550,550
+,Nat Gas P L Co Of America,MC2,New Mexico,Texas,656,656,656,656,656,656,656,656,656,656,656,656
+,Nat Gas P L Co Of America,MC3,Texas,Oklahoma,"1,433","1,433","1,433","1,433","1,433","1,433","1,433","1,433","1,433","1,433","1,433","1,433"
+,Nat Gas P L Co Of America,MC4,Oklahoma,Kansas,"1,202","1,202","1,202","1,202","1,202","1,202","1,202","1,202","1,202","1,202","1,202","1,202"
+,Nat Gas P L Co Of America,MC5,Kansas,Nebraska,"1,224","1,224","1,224","1,224","1,224","1,224","1,224","1,224","1,224","1,224","1,224","1,224"
+,Nat Gas P L Co Of America,MC6,Nebraska,Iowa,"1,389","1,389","1,389","1,389","1,389","1,389","1,389","1,389","1,389","1,389","1,389","1,389"
+,Nat Gas P L Co Of America,MC7,Iowa,Illinois,"1,777","1,777","1,777","1,777","1,777","1,777","1,777","1,777","1,777","1,777","1,777","1,777"
+,Nat Gas P L Co Of America,MC4 Back,Kansas,Oklahoma,300,300,300,300,300,300,300,300,300,300,300,300
+,Nat Gas P L Co Of America,MC3 Back,Oklahoma,Texas,"1,390","1,390","1,390","1,390","1,390","1,390","1,390","1,390","1,390","1,390","1,390","1,390"
+,Nat Gas P L Co Of America,Midcontinent Line,Max Capacity,,"1,777","1,777","1,777","1,777","1,777","1,777","1,777","1,777","1,777","1,777","1,777","1,777"
+,Nat Gas P L Co Of America,GC1,Louisiana,Texas,140,140,140,140,140,140,140,140,140,140,140,140
+,Nat Gas P L Co Of America,GC2,Gulf of Mexico,Texas,150,150,150,150,150,150,150,150,150,150,150,150
+,Nat Gas P L Co Of America,GC3,Texas,Arkansas,"1,805","1,805","1,805","1,805","1,805","1,805","1,805","1,805","1,805","1,805","1,805","1,805"
+,Nat Gas P L Co Of America,GC4,Arkansas,Missouri,"1,574","1,574","1,574","1,574","1,574","1,574","1,574","1,574","1,574","1,574","1,574","1,574"
+,Nat Gas P L Co Of America,GC5,Missouri,Illinois,"1,650","1,650","1,650","1,650","1,650","1,650","1,650","1,650","1,650","1,650","1,650","1,650"
+,Nat Gas P L Co Of America,GC6,Illinois,Indiana,710,710,710,710,710,710,710,710,710,710,710,710
+,Nat Gas P L Co Of America,GC7,Illinois,Wisconsin,55,55,55,55,55,55,55,55,55,55,55,55
+,Nat Gas P L Co Of America,GC3 Back,Arkansas,Texas,"1,060",600,600,600,600,600,600,600,600,600,600,600
+,Nat Gas P L Co Of America,GC1 Back,Texas,Louisiana,996,996,996,996,996,996,996,996,996,996,996,796
+,Nat Gas P L Co Of America,Gulf Coast Line,Max Capacity (Northward),,"1,805","1,805","1,805","1,805","1,805","1,805","1,805","1,805","1,805","1,805","1,805","1,805"
+,Nat Gas P L Co Of America,Gulf Coast Line,Max Capacity (Southward),,"1,805","1,805",996,996,996,996,996,996,996,996,996,796
+,,,,,,,,,,,,,,,,
+,National Fuel Gas Supply Co,M1,New York,Pennsylvania,484,484,484,484,484,484,484,484,484,484,484,484
+,National Fuel Gas Supply Co,M1 Back,Pennsylvania,New York,757,757,757,757,757,757,757,437,437,437,437,437
+,National Fuel Gas Supply Co,Main Line,Max Capacity (Northward),,757,757,757,757,757,757,757,437,437,437,437,437
+,National Fuel Gas Supply Co,Main Line,Max Capacity (Southward),,757,757,484,484,484,484,484,484,484,484,484,484
+,,,,,,,,,,,,,,,,
+,North Baja Pipeline Co,M1,Arizona,California,500,500,500,500,500,500,500,500,500,500,500,500
+,North Baja Pipeline Co,M2,California,Mexico,500,500,500,500,500,500,500,500,500,500,500,500
+,North Baja Pipeline Co,M2 Back,Mexico,California,614,614,614,614,614,614,614,614,614,614,614,614
+,North Baja Pipeline Co,M1 Back,California,Arizona,695,695,695,695,695,695,695,695,695,614,614,614
+,North Baja Pipeline Co,Main Line,Max Capacity (Southward),,500,500,500,500,500,500,500,500,500,500,500,500
+,North Baja Pipeline Co,Main Line,Max Capacity (Northward),,695,695,695,695,695,695,695,695,695,614,614,614
+,,,,,,,,,,,,,,,,
+,Northern Border Pipeline Co,M1,Saskatchewan,Montana,"2,373","2,373","2,373","2,373","2,373","2,373","2,373","2,373","2,373","2,373","2,373","2,373"
+,Northern Border Pipeline Co,M2,Montana,North Dakota,"2,180","2,180","2,180","2,180","2,180","2,180","2,180","2,180","2,180","2,180","2,180","2,180"
+,Northern Border Pipeline Co,M3,North Dakota,South Dakota,"2,375","2,375","2,375","2,375","2,375","2,375","2,375","2,375","2,375","2,375","2,375","2,375"
+,Northern Border Pipeline Co,M4,South Dakota,Minnesota,"2,355","2,355","2,355","2,355","2,355","2,355","2,355","2,355","2,355","2,355","2,355","2,355"
+,Northern Border Pipeline Co,M5,Minnesota,Iowa,"2,250","2,250","2,250","2,250","2,250","2,250","2,250","2,250","2,250","2,250","2,250","2,250"
+,Northern Border Pipeline Co,M6,Iowa,Illinois,988,988,988,988,988,988,988,988,988,988,988,988
+,Northern Border Pipeline Co,M7,Illinois,Indiana,917,917,917,917,917,917,917,917,917,917,917,917
+,Northern Border Pipeline Co,Main Line,Max Capacity,,"2,375","2,375","2,375","2,375","2,375","2,375","2,375","2,375","2,375","2,375","2,375","2,375"
+,,,,,,,,,,,,,,,,
+,Northern Natural Gas Co,M1,New Mexico,Texas,245,245,245,245,245,245,245,245,245,245,245,245
+,Northern Natural Gas Co,M2,Oklahoma,Texas,913,913,913,913,913,913,913,913,913,913,913,913
+,Northern Natural Gas Co,M3,Texas,Oklahoma,"1,230","1,230","1,230","1,230","1,230","1,230","1,230","1,230","1,230","1,230","1,230","1,230"
+,Northern Natural Gas Co,M4,Oklahoma,Kansas,"1,566","1,566","1,566","1,566","1,566","1,566","1,566","1,566","1,566","1,566","1,566","1,566"
+,Northern Natural Gas Co,M5,Kansas,Nebraska,"2,172","2,172","2,172","2,172","2,172","2,172","2,172","2,172","2,172","2,172","2,172","2,172"
+,Northern Natural Gas Co,M6,Nebraska,Iowa,"1,913","1,913","1,913","1,913","1,913","1,913","1,913","1,913","1,913","1,913","1,913","1,913"
+,Northern Natural Gas Co,M7,Iowa,South Dakota,94,94,94,94,94,94,94,94,94,94,94,94
+,Northern Natural Gas Co,M8,Iowa,Minnesota,"1,930","1,930","1,930","1,930","1,930","1,930","1,930","1,930","1,930","1,930","1,930","1,930"
+,Northern Natural Gas Co,M9,Minnesota,Wisconsin,213,213,213,213,213,213,213,213,213,213,213,213
+,Northern Natural Gas Co,M10,Wisconsin,Michigan,82,82,82,82,82,82,82,82,82,82,82,82
+,Northern Natural Gas Co,M11,Iowa,Illinois,575,575,575,575,575,575,575,575,575,575,575,575
+,Northern Natural Gas Co,M12,Illinois,Wisconsin,335,335,335,335,335,335,335,335,335,335,335,335
+,Northern Natural Gas Co,L1,Nebraska,South Dakota,125,125,125,125,125,125,125,125,125,125,125,125
+,Northern Natural Gas Co,L2,South Dakota,Minnesota,20,20,20,20,20,20,20,20,20,20,20,20
+,Northern Natural Gas Co,L3,South Dakota,Iowa,20,20,20,20,20,20,20,20,20,20,20,20
+,Northern Natural Gas Co,Main Line,Max Capacity,,"2,172","2,172","2,172","2,172","2,172","2,172","2,172","2,172","2,172","2,172","2,172","2,172"
+,,,,,,,,,,,,,,,,
+,Northwest Pipeline Corp,RM1,Colorado,Utah,308,308,308,308,308,308,308,308,308,158,158,158
+,Northwest Pipeline Corp,RM2,Utah,Colorado,337,337,337,337,337,337,337,337,337,337,337,337
+,Northwest Pipeline Corp,RM3,Utah,Wyoming,510,510,510,510,510,510,510,510,510,360,360,360
+,Northwest Pipeline Corp,RM4,Wyoming,Utah,625,625,675,675,675,675,675,675,675,675,675,675
+,Northwest Pipeline Corp,RM5,Utah,Idaho,680,680,675,675,675,675,675,675,675,675,675,675
+,Northwest Pipeline Corp,RM6,Idaho,Oregon,429,429,429,429,429,429,429,429,429,429,429,429
+,Northwest Pipeline Corp,PC1,Oregon,Washington,883,883,883,883,883,883,883,883,883,883,883,883
+,Northwest Pipeline Corp,PC2,British Columbia,Washington,"1,562","1,562","1,562","1,562","1,562","1,562","1,562","1,562","1,562","1,562","1,562","1,562"
+,Northwest Pipeline Corp,PC3,Washington,Oregon,"1,289","1,289","1,289","1,289","1,289","1,289","1,289","1,289","1,289","1,289","1,289","1,289"
+,Northwest Pipeline Corp,PC2 Back,Washington,British Columbia,51,51,51,51,51,51,51,51,51,51,51,51
+,Northwest Pipeline Corp,RM6 Back,Oregon,Idaho,481,481,481,481,481,481,481,481,481,481,481,481
+,Northwest Pipeline Corp,RM5 Back,Idaho,Utah,298,298,298,298,298,298,298,298,298,298,298,298
+,Northwest Pipeline Corp,L1,Idaho,Nevada,158,158,158,158,158,158,158,158,158,158,158,158
+,Northwest Pipeline Corp,L2,Washington,Idaho,59,59,59,59,59,59,59,59,59,59,59,59
+,Northwest Pipeline Corp,Rocky Mountain Line,Max Capacity,,680,680,675,675,675,675,675,675,675,675,675,675
+,Northwest Pipeline Corp,Pacific Coast Line,Max Capacity,,883,883,"1,562","1,562","1,562","1,562","1,562","1,562","1,562","1,562","1,562","1,562"
+,,,,,,,,,,,,,,,,
+,Panhandle Eastern P L Co,M1,Texas,Oklahoma,445,445,445,445,445,445,445,445,445,445,445,445
+,Panhandle Eastern P L Co,M2,Oklahoma,Kansas,"1,395","1,395","1,395","1,395","1,395","1,395","1,395","1,395","1,395","1,395","1,395","1,395"
+,Panhandle Eastern P L Co,M3,Kansas,Missouri,"1,559","1,559","1,559","1,559","1,559","1,559","1,559","1,559","1,559","1,559","1,559","1,559"
+,Panhandle Eastern P L Co,M4,Missouri,Illinois,"1,422","1,422","1,422","1,422","1,422","1,422","1,422","1,422","1,422","1,422","1,422","1,422"
+,Panhandle Eastern P L Co,M5,Illinois,Indiana,"1,573","1,573","1,573","1,573","1,573","1,573","1,573","1,573","1,573","1,573","1,573","1,573"
+,Panhandle Eastern P L Co,M6,Indiana,Ohio,"1,314","1,314","1,314","1,314","1,314","1,314","1,314","1,314","1,314","1,314","1,314","1,314"
+,Panhandle Eastern P L Co,M7,Ohio,Michigan,960,960,960,960,960,960,960,960,960,960,960,960
+,Panhandle Eastern P L Co,L1,Michigan,Ontario,150,150,150,150,150,150,150,150,150,150,150,150
+,Panhandle Eastern P L Co,L2,Kansas,Colorado,45,45,45,45,45,45,45,45,45,45,45,45
+,Panhandle Eastern P L Co,L3,Ohio,Indiana,"1,250",900,150,150,150,150,150,150,150,150,150,150
+,Panhandle Eastern P L Co,Main Line,Max Capacity,,"1,573","1,573","1,573","1,573","1,573","1,573","1,573","1,573","1,573","1,573","1,573","1,573"
+,,,,,,,,,,,,,,,,
+,Portland Gas Trans Co,M1,Quebec,New Hampshire,325,274,216,216,216,216,216,216,216,216,216,216
+,Portland Gas Trans Co,M2,New Hampshire,Maine,325,274,216,216,216,216,216,216,216,216,216,216
+,Portland Gas Trans Co,M2 Back,Maine,New Hampshire,216,216,216,216,216,216,216,216,216,216,216,216
+,Portland Gas Trans Co,M1 Back,New Hampshire,Quebec,216,216,216,216,216,216,216,216,216,216,216,216
+,Portland Gas Trans Co,Main Line,Max Capacity (Southward),,325,274,216,216,216,216,216,216,216,216,216,216
+,Portland Gas Trans Co,Main Line,Max Capacity (Northward),,325,274,216,216,216,216,216,216,216,216,216,216
+,,,,,,,,,,,,,,,,
+,Questar P L Co,M1,Colorado,Utah,255,255,255,255,255,255,255,255,255,255,255,255
+,Questar P L Co,M2,Utah,Wyoming,354,354,354,354,354,354,354,354,354,354,354,354
+,Questar P L Co,M3,Utah,Colorado,221,221,221,221,221,221,221,221,221,221,98,23
+,Questar P L Co,M4,Colorado,Wyoming,165,165,165,165,165,165,165,165,165,165,165,165
+,Questar P L Co,M5,Wyoming,Utah,"1,423","1,423","1,423","1,423","1,423","1,423","1,423","1,423","1,423","1,423","1,423","1,423"
+,Questar P L Co,M6,Wyoming,Colorado,145,145,145,145,145,145,145,145,145,145,145,145
+,Questar P L Co,Main Line,Max Capacity,,"1,423","1,423","1,423","1,423","1,423","1,423","1,423","1,423","1,423","1,423","1,423","1,423"
+,,,,,,,,,,,,,,,,
+,Questar Southern Trails Pipeline Co,M1,New Mexico,Arizona,87,87,87,87,87,87,87,87,87,87,87,87
+,Questar Southern Trails Pipeline Co,M2,Arizona,California,80,80,80,80,80,80,80,80,80,80,80,80
+,Questar Southern Trails Pipeline Co,Main Line,Max Capacity,,87,87,87,87,87,87,87,87,87,87,87,87
+,,,,,,,,,,,,,,,,
+,Rockies Express Pipeline,M1,Colorado,Wyoming,"3,200","1,600","1,600","1,600","1,600","1,600","1,600","1,600","1,600","1,600","1,450","1,400"
+,Rockies Express Pipeline,M2,Wyoming,Colorado,"1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,500","1,400"
+,Rockies Express Pipeline,M3,Colorado,Wyoming,"3,200","1,600","1,600","1,600","1,600","1,600","1,600","1,600","1,600","1,600","1,450",0
+,Rockies Express Pipeline,M4,Wyoming,Nebraska,"1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,500",0
+,Rockies Express Pipeline,M5,Nebraska,Colorado,"1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,500",0
+,Rockies Express Pipeline,M6,Colorado,Nebraska,"1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,500",0
+,Rockies Express Pipeline,M7,Nebraska,Kansas,"1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,500",0
+,Rockies Express Pipeline,M8,Kansas,Missouri,"1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,500",0
+,Rockies Express Pipeline,M9,Missouri,Illinois,"1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800",0,0
+,Rockies Express Pipeline,M10,Illinois,Indiana,"1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800",0,0
+,Rockies Express Pipeline,M11,Indiana,Ohio,"1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800",0,0
+,Rockies Express Pipeline,M11 Back,Ohio,Indiana,"2,000","2,000","2,000","1,200",0,0,0,0,0,0,0,0
+,Rockies Express Pipeline,M10 Back,Indiana,Illinois,"2,000","2,000","2,000","2,400",0,0,0,0,0,0,0,0
+,Rockies Express Pipeline,Main Line,Max Capacity (Eastward ),,"3,200","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,800","1,500","1,400"
+,Rockies Express Pipeline,Main Line,Max Capacity (Westward),,"2,000","2,000","2,000","2,400",0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,
+,Rover Pipeline,SPZ,Pennsylvania,West Virginia,400,0,0,0,0,0,0,0,0,0,0,0
+,Rover Pipeline,SPZ,West Virginia,Ohio,"1,600",0,0,0,0,0,0,0,0,0,0,0
+,Rover Pipeline,Main Line,Max Capacity,,"1,600",0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,
+,Ruby Pipeline LLC,M1,Wyoming,Utah,"1,500","1,500","1,500","1,500","1,500","1,500","1,500","1,500",0,0,0,0
+,Ruby Pipeline LLC,M2,Utah,Nevada,"1,500","1,500","1,500","1,500","1,500","1,500","1,500","1,500",0,0,0,0
+,Ruby Pipeline LLC,M3,Nevada,Oregon,"1,500","1,500","1,500","1,500","1,500","1,500","1,500","1,500",0,0,0,0
+,Ruby Pipeline LLC,Main Line,Max Capacity,,"1,500","1,500","1,500","1,500","1,500","1,500","1,500","1,500",0,0,0,0
+,,,,,,,,,,,,,,,,
+,Sabal Trail,N/A,Alabama,Georgia,830,830,0,0,0,0,0,0,0,0,0,0
+,Sabal Trail,N/A,Georgia,Florida,830,830,0,0,0,0,0,0,0,0,0,0
+,Sabal Trail,Main Line,Max Capacity,,830,830,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,
+,Southeast Supply Header Pipeline,M1,Louisiana,Mississippi,"1,545","1,545","1,545","1,545","1,500","1,500","1,500","1,500","1,140","1,140","1,140",0
+,Southeast Supply Header Pipeline,M2,Mississippi,Alabama,"1,070","1,070","1,070","1,070","1,025","1,025","1,025","1,025","1,025","1,025","1,025",0
+,Southeast Supply Header Pipeline,Main Line,Max Capacity,,"1,545","1,545","1,545","1,545","1,500","1,500","1,500","1,500","1,140","1,140","1,140",0
+,,,,,,,,,,,,,,,,
+,Southern Natural Gas Co,M1,Texas,Louisiana,110,110,110,110,110,110,110,110,110,110,110,110
+,Southern Natural Gas Co,M2,Gulf of Mexico,Louisiana,0,0,0,0,0,0,0,650,650,650,650,650
+,Southern Natural Gas Co,M3,Louisiana,Mississippi,"1,853","1,853","1,853","1,853","1,853","1,853","1,853","1,853","1,853","1,853","1,853","1,853"
+,Southern Natural Gas Co,M4,Mississippi,Alabama,"3,126","3,126","3,126","3,126","3,126","3,126","3,126","3,001","2,876","2,876","2,876","2,876"
+,Southern Natural Gas Co,M5,Alabama,Georgia,"2,760","2,760","2,760","2,760","2,760","2,760","2,760","2,635","2,635","2,510","2,510","2,510"
+,Southern Natural Gas Co,M6,Georgia,Florida,646,646,646,411,411,411,411,411,411,411,411,411
+,Southern Natural Gas Co,M7,Georgia,South Carolina,454,454,454,454,454,454,454,454,454,454,454,454
+,Southern Natural Gas Co,M8,Georgia,Tennessee,151,151,151,151,151,151,151,151,151,151,151,151
+,Southern Natural Gas Co,Main Line,Max Capacity,,"3,126","3,126","3,126","3,126","3,126","3,126","3,126","3,001","2,876","2,876","2,876","2,876"
+,,,,,,,,,,,,,,,,
+,Southern Star Central Gas PL Co,M1,Wyoming,Colorado,208,208,208,208,208,208,208,208,208,208,208,208
+,Southern Star Central Gas PL Co,M2,Colorado,Kansas,216,216,216,216,216,216,216,216,216,216,216,216
+,Southern Star Central Gas PL Co,M3,Kansas,Missouri,"1,270","1,270","1,270","1,270","1,270","1,270","1,270","1,270","1,270","1,270","1,270","1,270"
+,Southern Star Central Gas PL Co,M4,Kansas,Oklahoma,259,259,259,259,259,259,259,259,259,259,259,259
+,Southern Star Central Gas PL Co,M5,Texas,Oklahoma,145,145,145,145,145,145,145,145,145,145,145,145
+,Southern Star Central Gas PL Co,M6,Oklahoma,Kansas,897,897,897,897,897,897,897,897,897,897,897,897
+,Southern Star Central Gas PL Co,L1,Oklahoma,Missouri,80,80,80,80,80,80,80,80,80,80,80,80
+,Southern Star Central Gas PL Co,L2,Kansas,Nebraska,6,6,6,6,6,6,6,6,6,6,6,6
+,Southern Star Central Gas PL Co,Main Line,Max Capacity,,"1,270","1,270","1,270","1,270","1,270","1,270","1,270","1,270","1,270","1,270","1,270","1,270"
+,,,,,,,,,,,,,,,,
+,Tallgrass Interstate Gas Transmission,M1,Wyoming,Nebraska,120,120,120,120,120,375,375,375,375,375,375,375
+,Tallgrass Interstate Gas Transmission,M2,Colorado,Nebraska,222,222,222,222,222,477,477,477,477,477,477,477
+,Tallgrass Interstate Gas Transmission,M3,Colorado,Kansas,20,20,20,20,20,20,20,20,20,20,20,20
+,Tallgrass Interstate Gas Transmission,M4,Kansas,Nebraska,210,210,210,210,210,210,210,210,210,210,210,210
+,Tallgrass Interstate Gas Transmission,M5,Kansas,Missouri,255,255,255,255,255,255,255,255,255,255,255,255
+,Tallgrass Interstate Gas Transmission,M6,Texas,Oklahoma,135,135,135,135,135,135,135,135,135,135,135,135
+,Tallgrass Interstate Gas Transmission,M7,Kansas,Oklahoma,5,5,5,5,5,5,5,5,5,5,5,5
+,Tallgrass Interstate Gas Transmission,M6 Back,Oklahoma,Texas,35,35,35,35,35,35,35,35,35,35,35,35
+,Tallgrass Interstate Gas Transmission,M3 Back,Nebraska,Kansas,40,40,40,40,40,295,295,295,295,295,295,295
+,Tallgrass Interstate Gas Transmission,M2 Back,Nebraska,Colorado,97,97,97,97,97,352,352,352,352,352,352,352
+,Tallgrass Interstate Gas Transmission,Main Line,Max Capacity,,255,255,255,255,255,477,477,477,477,477,477,477
+,,,,,,,,,,,,,,,,
+,Tennessee Gas Pipeline Co,MX1,Texas,Mexico,888,505,505,505,505,505,505,505,505,505,505,505
+,Tennessee Gas Pipeline Co,MX1 Back,Mexico,Texas,215,215,215,215,215,215,215,215,215,215,215,215
+,Tennessee Gas Pipeline Co,Mexico Line,Max Capacity,,888,505,505,505,505,505,505,505,505,505,505,505
+,Tennessee Gas Pipeline Co,GC1,Gulf of Mexico,Louisiana,0,0,0,0,0,0,0,"3,217","3,217","3,217","3,217","3,217"
+,Tennessee Gas Pipeline Co,GC2,Texas,Louisiana,"1,407","1,407","1,407","1,407","1,407","1,407","1,407","1,407","1,407","1,407","1,307","1,307"
+,Tennessee Gas Pipeline Co,GC3,Louisiana,Arkansas,"1,581","1,581","1,581","1,581","1,581","1,581","1,581","1,581","1,581","1,581","1,581","1,581"
+,Tennessee Gas Pipeline Co,GC4,Arkansas,Mississippi,"1,573","1,573","1,573","1,573","1,573","1,573","1,573","1,573","1,573","1,573","1,573","1,573"
+,Tennessee Gas Pipeline Co,GC5,Mississippi,Tennessee,"2,332","2,332","2,332","2,332","2,332","2,332","2,332","2,332","2,332","2,332","2,332","2,332"
+,Tennessee Gas Pipeline Co,GC6,Louisiana,Mississippi,"2,520","2,520","2,520","2,520","2,520","2,520","2,520","2,520","2,520","2,520","2,520","2,520"
+,Tennessee Gas Pipeline Co,GC7,Mississippi,Alabama,"1,899","1,899","1,899","1,899","1,899","1,899","1,899","1,899","1,899","1,899","1,899","1,899"
+,Tennessee Gas Pipeline Co,GC8,Alabama,Tennessee,"1,832","1,832","1,832","1,832","1,832","1,832","1,832","1,832","1,832","1,832","1,832","1,832"
+,Tennessee Gas Pipeline Co,GC9,Tennessee,Kentucky,"2,771","2,771","2,771","2,771","2,771","2,771","2,771","2,771","2,771","2,771","2,771","2,771"
+,Tennessee Gas Pipeline Co,GC10,Kentucky,West Virginia,681,681,681,681,681,681,681,681,681,681,681,681
+,Tennessee Gas Pipeline Co,GC11,Kentucky,Ohio,"1,777","1,777","1,777","1,777","1,777","1,777","1,777","1,777","1,777","1,777","1,777","1,777"
+,Tennessee Gas Pipeline Co,GC12,Ohio,Pennsylvania,"1,575","1,575","1,575","1,575","1,575","1,575","1,575","1,575","1,575","1,575","1,575","1,575"
+,Tennessee Gas Pipeline Co,GC12 Back,Pennsylvania,Ohio,"1,575","1,575","1,575","1,575","1,575","1,575","1,575","1,575","1,575","1,575",0,0
+,Tennessee Gas Pipeline Co,GC11 Back,Ohio,Kentucky,"1,777","1,777","1,777","1,777","1,777","1,777","1,777","1,777","1,777","1,777",0,0
+,Tennessee Gas Pipeline Co,GC10 Back,West Virginia,Kentucky,902,590,590,590,0,0,0,0,0,0,0,0
+,Tennessee Gas Pipeline Co,GC9 Back,Kentucky,Tennessee,"2,636","2,580","2,580","1,350","1,350",850,850,850,850,850,0,0
+,Tennessee Gas Pipeline Co,GC8 Back,Tennessee,Alabama,"1,753","1,753","1,450","1,450","1,450",950,950,950,950,950,500,500
+,Tennessee Gas Pipeline Co,GC7 Back,Alabama,Mississippi,"1,450","1,450","1,450","1,450","1,450",950,950,950,950,950,0,0
+,Tennessee Gas Pipeline Co,GC5 Back,Tennessee,Mississippi,"1,500","1,500",0,0,0,0,0,0,0,0,0,0
+,Tennessee Gas Pipeline Co,GC4 Back,Mississippi,Arkansas,"1,707","1,707",0,0,0,0,0,0,0,0,0,0
+,Tennessee Gas Pipeline Co,GC3 Back,Arkansas,Louisiana,"1,707","1,707",0,0,0,0,0,0,0,0,0,0
+,Tennessee Gas Pipeline Co,GC2 Back,Louisiana,Texas,"1,317","1,317",0,0,0,0,0,0,0,0,0,0
+,Tennessee Gas Pipeline Co,Gulf Coast Line,Max Capacity (Northward),,"2,771","2,771","2,771","2,771","2,771","2,771","2,771","2,771","2,771","2,771","2,771","2,771"
+,Tennessee Gas Pipeline Co,Gulf Coast Line,Max Capacity (Southward),,"2,636","2,580","2,580","1,450","1,450",950,950,950,950,950,500,500
+,Tennessee Gas Pipeline Co,NE1,Ontario,New York,"1,297","1,297","1,297","1,297","1,297","1,297","1,297","1,297","1,297","1,297","1,297","1,297"
+,Tennessee Gas Pipeline Co,NE2,Pennsylvania,New York,"1,230","1,230","1,230","1,230","1,230","1,230","1,230",980,980,980,980,980
+,Tennessee Gas Pipeline Co,NE3,Pennsylvania,New Jersey,"1,586","1,586","1,586","1,586","1,586","1,586",950,950,600,600,600,600
+,Tennessee Gas Pipeline Co,NE4,New Jersey,New York,377,377,377,377,377,377,377,377,377,377,377,377
+,Tennessee Gas Pipeline Co,NE5,New York,Connecticut,222,222,150,150,150,150,150,150,150,150,150,150
+,Tennessee Gas Pipeline Co,NE6,Connecticut,Massachusetts,80,80,80,80,80,80,80,80,80,80,80,80
+,Tennessee Gas Pipeline Co,NE7,New York,Massachusetts,"1,169","1,169","1,169","1,169","1,169","1,169","1,169","1,169","1,169","1,169","1,169","1,169"
+,Tennessee Gas Pipeline Co,NE8,Massachusetts,New Hampshire,201,201,201,201,201,201,201,201,201,201,201,201
+,Tennessee Gas Pipeline Co,NE9,Massachusetts,Rhode Island,173,173,173,173,173,173,173,173,173,173,173,173
+,Tennessee Gas Pipeline Co,NE6 Back,Massachusetts,Connecticut,164,164,164,164,164,164,164,164,164,164,164,164
+,Tennessee Gas Pipeline Co,NE1 Back,New York,Ontario,700,700,700,700,420,420,420,100,100,100,100,100
+,Tennessee Gas Pipeline Co,Northeast Lines,Max Capacity,,"1,586","1,586","1,586","1,586","1,586","1,586","1,297","1,297","1,297","1,297","1,297","1,297"
+,,,,,,,,,,,,,,,,
+,Texas Eastern Trans Corp,MX1,Texas,Mexico,431,431,431,431,431,431,431,431,431,431,431,431
+,Texas Eastern Trans Corp,MX1 Back,Mexico,Texas,350,350,350,350,350,350,350,350,350,350,350,350
+,Texas Eastern Trans Corp,Mexico Line,Max Capacity,,431,431,431,431,431,431,431,431,431,431,431,431
+,Texas Eastern Trans Corp,GC1,Gulf of Mexico,Louisiana,990,990,990,990,990,990,990,990,990,990,990,990
+,Texas Eastern Trans Corp,GC2,Texas,Louisiana,945,945,945,945,945,945,945,945,945,945,945,945
+,Texas Eastern Trans Corp,GC3,Louisiana,Mississippi,"2,202","2,202","2,202","2,202","2,202","2,202","2,202","2,202","2,202","2,202","2,202","2,202"
+,Texas Eastern Trans Corp,GC4,Mississippi,Alabama,"2,222","2,222","2,222","2,222","2,222","2,222","2,222","2,222","2,222","2,222","2,222","2,222"
+,Texas Eastern Trans Corp,GC5,Alabama,Tennessee,"2,308","2,308","2,308","2,308","2,308","2,308","2,308","2,308","2,308","2,308","2,308","2,308"
+,Texas Eastern Trans Corp,GC6,Tennessee,Kentucky,"2,200","2,200","2,200","2,200","2,200","2,200","2,200","2,200","2,200","2,200","2,200","2,200"
+,Texas Eastern Trans Corp,GC7,Kentucky,Ohio,"2,066","2,066","2,066","2,066","2,066","2,066","2,066","2,066","2,066","2,066","2,066","2,066"
+,Texas Eastern Trans Corp,CG8,Ohio,West Virginia,"3,340","3,340","3,340","3,340","3,340","3,340","3,340","3,340","3,190","3,040","2,890","2,740"
+,Texas Eastern Trans Corp,CG9,West Virginia,Pennsylvania,"3,225","3,225","3,225","3,225","3,225","3,225","3,225","3,025","3,025","3,025","2,875","2,725"
+,Texas Eastern Trans Corp,CG9 Back,Pennsylvania,West Virginia,"2,921","2,921","2,280","1,920",900,0,0,0,0,0,0,0
+,Texas Eastern Trans Corp,CG8 Back,West Virginia,Ohio,"2,920","2,920","2,280","1,920",900,0,0,0,0,0,0,0
+,Texas Eastern Trans Corp,GC7 Back,Ohio,Kentucky,"2,247","2,247","1,583","1,225",0,0,0,0,0,0,0,0
+,Texas Eastern Trans Corp,GC6 Back,Kentucky,Tennessee,"1,920","1,920","1,500","1,150",688,300,0,0,0,0,0,0
+,Texas Eastern Trans Corp,GC5 Back,Tennessee,Alabama,"1,820","1,820","1,320",975,600,0,0,0,0,0,0,0
+,Texas Eastern Trans Corp,GC4 Back,Alabama,Mississippi,"1,820","1,820","1,320",975,600,0,0,0,0,0,0,0
+,Texas Eastern Trans Corp,GC3 Back,Mississippi,Louisiana,"1,250","1,250","1,250",991,550,0,0,0,0,0,0,0
+,Texas Eastern Trans Corp,M2 Back,Louisiana,Texas,945,945,945,945,945,945,945,945,945,945,945,945
+,Texas Eastern Trans Corp,Gulf Coast Line,Max Capacity (Northward),,"3,340","3,340","3,340","3,340","3,340","3,340","3,340","3,340","3,190","3,040","2,890","2,740"
+,Texas Eastern Trans Corp,Gulf Coast Line,Max Capacity (Southward),,"2,247","2,247","1,583","1,225",945,945,945,945,945,945,945,945
+,Texas Eastern Trans Corp,MW1,Texas,Arkansas,379,379,379,379,379,379,379,379,267,267,267,267
+,Texas Eastern Trans Corp,MW2,Arkansas,Missouri,324,324,324,324,324,324,324,324,324,324,324,324
+,Texas Eastern Trans Corp,MW3,Missouri,Illinois,300,300,300,300,300,300,300,300,300,300,300,300
+,Texas Eastern Trans Corp,MW4,Illinois,Indiana,400,400,400,400,400,400,400,400,400,400,400,400
+,Texas Eastern Trans Corp,MW5,Indiana,Ohio,976,976,976,976,976,976,976,976,976,976,976,976
+,Texas Eastern Trans Corp,MW5 Back,Ohio,Indiana,716,716,425,425,0,0,0,0,0,0,0,0
+,Texas Eastern Trans Corp,Midwest Line,Max Capacity,,976,976,976,976,976,976,976,976,976,976,976,976
+,Texas Eastern Trans Corp,NE1,Pennsylvania,West Virginia,"2,921","2,921","2,280","1,920",900,0,0,0,0,0,0,0
+,Texas Eastern Trans Corp,NE2,Pennsylvania,Delaware,295,295,295,295,295,50,50,50,50,50,50,50
+,Texas Eastern Trans Corp,NE3,Pennsylvania,Maryland,300,300,300,300,300,300,300,300,300,300,300,300
+,Texas Eastern Trans Corp,NE4,Pennsylvania,New Jersey,"3,850","3,850","3,850","3,850","3,850","3,250","3,250","3,250","3,250","3,250","3,250","3,100"
+,Texas Eastern Trans Corp,NE5,New Jersey,New York,"1,500","1,500","1,500","1,500","1,500","1,500",700,700,700,700,700,700
+,Texas Eastern Trans Corp,NE3 Back,Maryland,Pennsylvania,300,300,300,300,300,300,300,300,300,300,300,300
+,Texas Eastern Trans Corp,Northeast Lines,Max Capacity,,"3,850","3,850","3,850","3,850","3,850","3,250","3,250","3,250","3,250","3,250","3,250","3,100"
+,,,,,,,,,,,,,,,,
+,Texas Gas Transmission Co,M1,Gulf of Mexico,Louisiana,501,501,501,501,501,501,501,501,501,501,501,501
+,Texas Gas Transmission Co,M2,Texas,Louisiana,260,260,260,260,260,260,260,260,260,260,260,260
+,Texas Gas Transmission Co,M3,Louisiana,Arkansas,"2,002","2,002","2,002","2,002","2,002","2,002","2,002","2,002","2,002","2,002","2,002","2,002"
+,Texas Gas Transmission Co,M4,Arkansas,Mississippi,"4,810","4,810","4,810","4,810","4,810","4,810","4,810","4,810","4,810","4,810","3,843","3,843"
+,Texas Gas Transmission Co,M5,Mississippi,Tennessee,"1,980","1,980","1,980","1,980","1,980","1,980","1,980","1,980","1,980","1,980","1,980","1,980"
+,Texas Gas Transmission Co,M6,Tennessee,Kentucky,"1,675","1,675","1,675","1,675","1,675","1,675","1,675","1,675","1,675","1,675","1,675","1,675"
+,Texas Gas Transmission Co,M7,Kentucky,Indiana,"1,564","1,564","1,564","1,510","1,510","1,510","1,510","1,510","1,510","1,510","1,510","1,510"
+,Texas Gas Transmission Co,M8,Indiana,Ohio,"1,007","1,007","1,007","1,007","1,007","1,007","1,007","1,007","1,007","1,007","1,007","1,007"
+,Texas Gas Transmission Co,M9,Ohio,Indiana,"1,042","1,042",758,0,0,0,0,0,0,0,0,0
+,Texas Gas Transmission Co,L1,Indiana,Illinois,44,44,44,44,44,44,44,44,44,44,44,44
+,Texas Gas Transmission Co,M9 Back,Indiana,Ohio,"1,007","1,007","1,007","1,007","1,007","1,007","1,007","1,007","1,007","1,007","1,007","1,007"
+,Texas Gas Transmission Co,M8 Back,Ohio,Indiana,"1,042","1,042",758,0,0,0,0,0,0,0,0,0
+,Texas Gas Transmission Co,M7 Back,Indiana,Kentucky,"1,042","1,042",758,0,0,0,0,0,0,0,0,0
+,Texas Gas Transmission Co,M6 Back,Kentucky,Tennessee,"1,067","1,067",783,25,25,25,25,25,25,25,25,25
+,Texas Gas Transmission Co,M5 Back,Tennessee,Mississippi,"1,042","1,042",758,0,0,0,0,0,0,0,0,0
+,Texas Gas Transmission Co,M4 Back,Mississippi,Arkansas,"1,042","1,042",758,0,0,0,0,0,0,0,0,0
+,Texas Gas Transmission Co,M3 Back,Arkansas,Louisiana,"1,042","1,042",758,0,0,0,0,0,0,0,0,0
+,Texas Gas Transmission Co,Main Line,Max Capacity (Northward),,"1,980","1,980","1,980","1,980","1,980","1,980","1,980","1,980","1,980","1,980","1,980","1,980"
+,Texas Gas Transmission Co,Main Line,Max Capacity (Southward),,"1,067","1,067",783,25,25,25,25,25,25,25,25,25
+,,,,,,,,,,,,,,,,
+,Trailblazer Pipeline Co,M1,Colorado,Wyoming,816,816,816,816,816,816,816,816,816,816,816,816
+,Trailblazer Pipeline Co,M2,Wyoming,Nebraska,816,816,816,816,816,816,816,816,816,816,816,816
+,Trailblazer Pipeline Co,M3,Nebraska,Colorado,816,816,816,816,816,816,816,816,816,816,816,816
+,Trailblazer Pipeline Co,M4,Colorado,Nebraska,816,816,816,816,816,816,816,816,816,816,816,816
+,Trailblazer Pipeline Co,Main Line,Max Capacity,,816,816,816,816,816,816,816,816,816,816,816,816
+,,,,,,,,,,,,,,,,
+,Transcolorado Gas Trans Co,M1,Colorado,New Mexico,692,692,692,692,692,692,692,692,692,692,692,692
+,Transcolorado Gas Trans Co,M1 Back,New Mexico,Colorado,250,250,250,250,250,250,250,250,250,250,250,250
+,Transcolorado Gas Trans Co,Main Line,Max Capacity,,692,692,692,692,692,692,692,692,692,692,692,692
+,,,,,,,,,,,,,,,,
+,Transcontinental Gas P L Co,M1,Gulf of Mexico,Alabama,612,612,612,612,612,612,612,612,612,612,612,612
+,Transcontinental Gas P L Co,M2,Gulf of Mexico,Louisiana,"2,644","2,644","2,644","2,644","2,644","2,644","2,644","2,644","2,644","2,644","2,644","2,644"
+,Transcontinental Gas P L Co,M3,Gulf of Mexico,Texas,600,600,600,600,600,600,600,600,600,600,600,600
+,Transcontinental Gas P L Co,M4,Texas,Louisiana,810,810,810,810,810,810,810,810,810,810,810,810
+,Transcontinental Gas P L Co,M5,Louisiana,Mississippi,"3,756","3,756","3,756","3,756","3,756","3,756","3,756","3,756","3,756","3,756","3,756","3,756"
+,Transcontinental Gas P L Co,M6,Mississippi,Alabama,"4,047","4,047","4,047","4,047","4,047","4,047","4,047","4,047","4,047","4,047","4,047","4,047"
+,Transcontinental Gas P L Co,M7,Alabama,Georgia,"4,758","4,758","4,758","4,758","4,758","4,758","4,758","4,663","4,444","4,444","4,444","4,444"
+,Transcontinental Gas P L Co,M8,Georgia,South Carolina,"4,199","4,199","4,199","4,199","4,199","4,199","4,199","4,104","3,885","3,885","3,885","3,885"
+,Transcontinental Gas P L Co,M9,South Carolina,North Carolina,"4,006","4,006","4,006","4,006","4,006","4,006","4,006","3,911","3,692","3,692","3,692","3,692"
+,Transcontinental Gas P L Co,M10,North Carolina,Virginia,"3,035","3,035","3,035","3,035","3,035","3,035","3,035","3,035","3,035","3,035","3,035","3,035"
+,Transcontinental Gas P L Co,M11,Virginia,Maryland,"2,265","2,265","2,265","2,265","2,265","2,265","2,265","2,265","2,265","2,265","2,265","2,265"
+,Transcontinental Gas P L Co,M12,Maryland,Pennsylvania,"2,100","2,100","2,100","2,100","2,100","2,100","2,100","2,100","2,100","2,100","2,100","2,100"
+,Transcontinental Gas P L Co,M13,Pennsylvania,Delaware,180,180,180,180,76,76,76,76,76,76,76,76
+,Transcontinental Gas P L Co,M14,Pennsylvania,New Jersey,"4,812","4,812","4,697","4,697","4,697","4,597","4,347","4,347","4,347","4,347","4,285","4,245"
+,Transcontinental Gas P L Co,M15,New Jersey,New York,"1,696","1,696","1,581","1,581","1,581","1,481","1,481","1,481","1,481","1,481","1,481","1,481"
+,Transcontinental Gas P L Co,M14 Back,New Jersey,Pennsylvania,"1,921","1,921","1,921","1,921","1,921","1,921","1,921","1,921","1,921","1,921","1,921","1,921"
+,Transcontinental Gas P L Co,M12 Back,Pennsylvania,Maryland,"2,743","1,443","1,043",851,420,420,420,0,0,0,0,0
+,Transcontinental Gas P L Co,M11 Back,Maryland,Virginia,"2,251","1,251",851,851,420,420,420,0,0,0,0,0
+,Transcontinental Gas P L Co,M10 Back,Virginia,North Carolina,"2,513","1,936","1,490","1,490",420,420,420,420,420,420,420,420
+,Transcontinental Gas P L Co,M4 Back,Mississippi,Louisiana,"1,200","1,200",0,0,0,0,0,0,0,0,0,0
+,Transcontinental Gas P L Co,Main Line,Max Capacity (Northward),,"4,812","4,812","4,758","4,758","4,758","4,758","4,758","4,663","4,444","4,444","4,444","4,444"
+,Transcontinental Gas P L Co,Main Line,Max Capacity (Southward),,"2,743","1,443","1,043",851,420,420,420,0,0,0,0,0
+,,,,,,,,,,,,,,,,
+,Transwestern Pipeline Co,M1,Oklahoma,Texas,115,115,115,115,115,115,115,115,115,115,115,115
+,Transwestern Pipeline Co,M2,Texas,New Mexico,950,950,950,950,950,950,950,950,950,950,950,950
+,Transwestern Pipeline Co,M3,Colorado,New Mexico,500,500,500,500,500,500,500,500,500,500,500,500
+,Transwestern Pipeline Co,M4,New Mexico,Arizona,"1,226","1,226","1,226","1,226","1,226","1,226","1,226","1,226","1,226","1,226","1,226","1,226"
+,Transwestern Pipeline Co,M5,Arizona,California,"1,285","1,285","1,285","1,285","1,285","1,285","1,285","1,285","1,285","1,285","1,285","1,285"
+,Transwestern Pipeline Co,M2 Back,New Mexico,Texas,795,795,795,795,795,795,795,795,795,795,795,795
+,Transwestern Pipeline Co,Main Line,Max Capacity,,"1,285","1,285","1,285","1,285","1,285","1,285","1,285","1,285","1,285","1,285","1,285","1,285"
+,,,,,,,,,,,,,,,,
+,Trunkline Gas Co,M1,Gulf of Mexico,Louisiana,0,0,0,0,0,0,0,"1,747","1,747","1,747","1,747","1,747"
+,Trunkline Gas Co,M2,Texas,Louisiana,960,960,960,960,960,960,960,960,960,960,960,960
+,Trunkline Gas Co,M3,Louisiana,Arkansas,"1,598","1,598","1,598","1,598","1,598","1,598","1,598","1,598","1,598","1,598","1,598","1,598"
+,Trunkline Gas Co,M4,Arkansas,Mississippi,"1,598","1,598","1,598","1,598","1,598","1,598","1,598","1,598","1,598","1,598","1,598","1,598"
+,Trunkline Gas Co,M5,Mississippi,Tennessee,"1,580","1,580","1,580","1,580","1,580","1,580","1,580","1,580","1,580","1,580","1,580","1,580"
+,Trunkline Gas Co,M6,Tennessee,Kentucky,"1,570","1,570","1,570","1,570","1,570","1,570","1,570","1,570","1,570","1,570","1,570","1,570"
+,Trunkline Gas Co,M7,Kentucky,Illinois,"1,544","1,544","1,544","1,544","1,544","1,544","1,544","1,544","1,544","1,544","1,544","1,544"
+,Trunkline Gas Co,M8,Illinois,Indiana,745,745,745,745,745,745,745,745,745,745,745,745
+,Trunkline Gas Co,M9,Indiana,Michigan,739,739,739,739,739,739,739,739,739,739,739,739
+,Trunkline Gas Co,M7 Back,Illinois,Kentucky,750,750,0,0,0,0,0,0,0,0,0,0
+,Trunkline Gas Co,M6 Back,Kentucky,Tennessee,750,750,0,0,0,0,0,0,0,0,0,0
+,Trunkline Gas Co,M5 Back,Tennessee,Mississippi,750,750,0,0,0,0,0,0,0,0,0,0
+,Trunkline Gas Co,Main Line,Max Capacity,,"1,598","1,598","1,598","1,598","1,598","1,598","1,598","1,598","1,598","1,598","1,598","1,598"
+,,,,,,,,,,,,,,,,
+,Tuscarora Pipeline Co,M1,Oregon,California,184,184,184,184,184,184,184,184,184,184,184,184
+,Tuscarora Pipeline Co,M2,California,Nevada,162,162,162,162,162,162,162,162,162,162,162,162
+,Tuscarora Pipeline Co,Main Line,Max Capacity,,184,184,184,184,184,184,184,184,184,184,184,184
+,,,,,,,,,,,,,,,,
+,Vector Pipeline Co,M1,Illinois,Indiana,"1,350","1,350","1,350","1,350","1,350","1,350","1,350","1,350","1,350","1,350","1,245","1,245"
+,Vector Pipeline Co,M2,Indiana,Michigan,"1,350","1,350","1,350","1,350","1,350","1,350","1,350","1,350","1,350","1,350","1,245","1,245"
+,Vector Pipeline Co,M3,Michigan,Ontario,"1,560","1,560","1,560","1,560","1,560","1,560","1,560","1,560","1,560","1,560","1,245","1,245"
+,Vector Pipeline Co,M3 Back,Ontario,Michigan,"1,350","1,350","1,350","1,350","1,350","1,350","1,350","1,350","1,350","1,350","1,245","1,245"
+,Vector Pipeline Co,Main Line,Max Capacity (Eastward ),,"1,560","1,560","1,560","1,560","1,560","1,560","1,560","1,560","1,560","1,560","1,245","1,245"
+,Vector Pipeline Co,Main Line,Max Capacity (Westward),,"1,350","1,350","1,350","1,350","1,350","1,350","1,350","1,350","1,350","1,350","1,245","1,245"
+,,,,,,,,,,,,,,,,
+,Viking Gas Transmission Co,M1,Manitoba,Minnesota,516,516,516,516,516,516,516,516,516,516,516,516
+,Viking Gas Transmission Co,M2,Minnesota,Wisconsin,437,437,437,437,437,437,437,437,437,437,437,437
+,Viking Gas Transmission Co,L1,Minnesota,North Dakota,101,101,101,101,101,101,101,101,101,101,63,63
+,Viking Gas Transmission Co,Main Line,Max Capacity,,516,516,516,516,516,516,516,516,516,516,516,516
+,,,,,,,,,,,,,,,,
+,WBI Energy Transmission,M1,South Dakota,Wyoming,85,85,85,85,85,85,85,85,85,85,85,85
+,WBI Energy Transmission,M2,Wyoming,Montana,421,421,421,421,421,421,421,421,421,421,421,380
+,WBI Energy Transmission,M3,Montana,North Dakota,542,542,542,542,542,542,542,542,542,542,467,426
+,WBI Energy Transmission,M4,Saskatchewan,North Dakota,46,46,46,46,46,46,46,46,46,46,46,46
+,WBI Energy Transmission,M5,North Dakota,South Dakota,54,54,54,54,54,54,54,54,54,54,54,54
+,WBI Energy Transmission,M5 Back,South Dakota,North Dakota,53,53,53,53,53,53,53,53,53,53,53,53
+,WBI Energy Transmission,M3 Back,North Dakota,Montana,268,268,268,268,268,268,268,268,268,268,268,268
+,WBI Energy Transmission,M2 Back,Montana,Wyoming,275,275,275,275,275,275,275,275,275,275,275,275
+,WBI Energy Transmission,M1 Back,Wyoming,South Dakota,27,27,27,27,27,27,27,27,27,27,27,27
+,WBI Energy Transmission,Main Line,Max Capacity,,542,542,542,542,542,542,542,542,542,542,467,426
+,,,,,,,,,,,,,,,,
+,Wyoming Interstate Co,M1,Utah,Wyoming,586,586,586,586,586,586,586,586,586,406,406,406
+,Wyoming Interstate Co,M2,Colorado,Wyoming,341,341,341,341,341,341,341,341,341,341,341,341
+,Wyoming Interstate Co,M3,Wyoming,Colorado,"2,477","2,255","2,255","2,255","2,255","2,255","2,255","2,255","2,255","2,255","2,200","1,870"
+,Wyoming Interstate Co,Main Line,Max Capacity,,"2,477","2,255","2,255","2,255","2,255","2,255","2,255","2,255","2,255","2,255","2,200","1,870"
