@@ -1,0 +1,446 @@
+Pipeline,Segment,State From,State To,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,2007
+Algonquin Gas Trans Co,M1,New Jersey,New York,1625.0,1532.0,1492.0,1150.0,1150.0,1150.0,1150.0,1150.0,1150.0,1150.0,1150.0,1150.0
+Algonquin Gas Trans Co,M2,New York,Connecticut,1830.0,1737.0,1697.0,1355.0,1355.0,1355.0,1355.0,1355.0,1355.0,1355.0,1355.0,1030.0
+Algonquin Gas Trans Co,M3,Connecticut,Rhode Island,1235.0,1142.0,1102.0,760.0,760.0,760.0,760.0,760.0,760.0,760.0,760.0,760.0
+Algonquin Gas Trans Co,M4,Rhode Island,Massachusetts,1180.0,1087.0,1047.0,705.0,705.0,705.0,705.0,705.0,705.0,705.0,705.0,705.0
+Algonquin Gas Trans Co,M4 Back,Massachusetts,Rhode Island,275.0,275.0,275.0,275.0,275.0,275.0,275.0,275.0,275.0,0.0,0.0,0.0
+Algonquin Gas Trans Co,M3 Back,Rhode Island,Connecticut,275.0,275.0,275.0,275.0,275.0,275.0,275.0,275.0,275.0,0.0,0.0,0.0
+Algonquin Gas Trans Co,M2 Back,Connecticut,New York,275.0,275.0,275.0,275.0,275.0,275.0,275.0,275.0,275.0,0.0,0.0,0.0
+Algonquin Gas Trans Co,M1 Back,New York,New Jersey,275.0,275.0,275.0,275.0,275.0,275.0,275.0,275.0,275.0,0.0,0.0,0.0
+Alliance Pipeline Co,M1,Saskatchewan,North Dakota,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0
+Alliance Pipeline Co,M2,North Dakota,Minnesota,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0
+Alliance Pipeline Co,M3,Minnesota,Iowa,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0
+Alliance Pipeline Co,M4,Iowa,Illinois,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0,1875.0
+ANR Pipeline Co,GC1,Gulf of Mexico,Louisiana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1919.0,1919.0,1919.0,1919.0,1919.0
+ANR Pipeline Co,GC2,Louisiana,Arkansas,1430.0,1430.0,1430.0,1430.0,1430.0,1430.0,1430.0,1430.0,1430.0,1430.0,1430.0,1430.0
+ANR Pipeline Co,GC3,Arkansas,Mississippi,1430.0,1430.0,1430.0,,1430.0,1430.0,1430.0,1430.0,1430.0,1430.0,1430.0,1430.0
+ANR Pipeline Co,GC4,Mississippi,Tennessee,1753.0,1753.0,1753.0,1753.0,1753.0,1753.0,1753.0,1753.0,1753.0,1753.0,1753.0,1753.0
+ANR Pipeline Co,GC5,Tennessee,Kentucky,1398.0,1398.0,1398.0,1398.0,1398.0,1398.0,1398.0,1398.0,1398.0,1398.0,1398.0,1398.0
+ANR Pipeline Co,GC6,Kentucky,Indiana,1386.0,1386.0,1386.0,1386.0,1386.0,1386.0,1386.0,1386.0,1386.0,1386.0,1386.0,1386.0
+ANR Pipeline Co,GC7,Indiana,Ohio,1748.0,1748.0,1748.0,1748.0,1748.0,1748.0,1748.0,1748.0,1748.0,1748.0,1748.0,1748.0
+ANR Pipeline Co,CG8,Ohio,Michigan,932.0,932.0,932.0,932.0,932.0,932.0,932.0,932.0,932.0,932.0,932.0,932.0
+ANR Pipeline Co,CG8 Back,Michigan,Ohio,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+ANR Pipeline Co,GC7 Back,Ohio,Indiana,452.0,452.0,452.0,452.0,318.0,318.0,318.0,318.0,318.0,318.0,318.0,318.0
+ANR Pipeline Co,GC6 Back,Indiana,Kentucky,750.0,750.0,750.0,750.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ANR Pipeline Co,GC5 Back,Kentucky,Tennessee,750.0,750.0,750.0,750.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ANR Pipeline Co,GC4 Back,Tennessee,Mississippi,1375.0,1375.0,750.0,750.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ANR Pipeline Co,GC3 Back,Mississippi,Arkansas,1150.0,1150.0,750.0,750.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ANR Pipeline Co,GC2 Back,Arkansas,Louisiana,1150.0,1150.0,750.0,750.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ANR Pipeline Co,MC1,Texas,Oklahoma,580.0,580.0,580.0,580.0,580.0,580.0,580.0,580.0,580.0,580.0,580.0,580.0
+ANR Pipeline Co,MC2,Oklahoma,Kansas,853.0,853.0,853.0,853.0,853.0,853.0,853.0,853.0,853.0,853.0,853.0,853.0
+ANR Pipeline Co,MC3,Kansas,Nebraska,693.0,693.0,693.0,693.0,693.0,693.0,693.0,693.0,693.0,693.0,693.0,693.0
+ANR Pipeline Co,MC4,Nebraska,Missouri,693.0,693.0,693.0,693.0,693.0,693.0,693.0,693.0,693.0,693.0,693.0,693.0
+ANR Pipeline Co,MC5,Missouri,Iowa,680.0,680.0,680.0,680.0,680.0,680.0,680.0,680.0,680.0,680.0,680.0,680.0
+ANR Pipeline Co,MC6,Iowa,Illinois,653.0,653.0,653.0,653.0,653.0,653.0,653.0,653.0,653.0,653.0,653.0,653.0
+ANR Pipeline Co,NC1,Michigan,Indiana,1567.0,1567.0,1567.0,1567.0,1567.0,1567.0,1567.0,1567.0,1567.0,1567.0,1567.0,1567.0
+ANR Pipeline Co,NC2,Indiana,Illinois,1384.0,1384.0,1384.0,1384.0,1384.0,1384.0,1384.0,1384.0,1384.0,1384.0,1384.0,1384.0
+ANR Pipeline Co,NC3,Illinois,Wisconsin,1841.0,1610.0,1610.0,1610.0,1610.0,1610.0,1610.0,1610.0,1610.0,1610.0,1610.0,1610.0
+ANR Pipeline Co,NC4,Wisconsin,Michigan,148.0,148.0,148.0,148.0,148.0,148.0,148.0,148.0,148.0,148.0,148.0,148.0
+ANR Pipeline Co,NC4 Back,Michigan,Wisconsin,860.0,860.0,860.0,860.0,860.0,860.0,860.0,860.0,860.0,860.0,860.0,860.0
+ANR Pipeline Co,NC3 Back,Wisconsin,Illinois,700.0,700.0,700.0,700.0,700.0,700.0,700.0,700.0,700.0,700.0,700.0,700.0
+ANR Pipeline Co,NC2 Back,Illinois,Indiana,1384.0,1384.0,1384.0,1384.0,1384.0,1384.0,1384.0,1384.0,1384.0,1384.0,1384.0,1384.0
+ANR Pipeline Co,NC1 Back,Indiana,Michigan,1520.0,1520.0,1520.0,1520.0,1520.0,1520.0,1520.0,1520.0,1520.0,1520.0,1520.0,1520.0
+Colorado Interstate Gas,RM1,Utah,Colorado,165.0,165.0,165.0,165.0,165.0,165.0,165.0,165.0,165.0,165.0,165.0,165.0
+Colorado Interstate Gas,RM2,Colorado,Wyoming,180.0,180.0,180.0,180.0,180.0,180.0,180.0,180.0,180.0,180.0,180.0,180.0
+Colorado Interstate Gas,RM3,Wyoming,Montana,60.0,60.0,60.0,60.0,60.0,60.0,60.0,60.0,60.0,60.0,60.0,60.0
+Colorado Interstate Gas,RM4,Wyoming,Colorado,625.0,625.0,625.0,625.0,625.0,625.0,625.0,625.0,625.0,625.0,625.0,625.0
+Colorado Interstate Gas,CO1,Colorado,Oklahoma,514.0,514.0,514.0,514.0,514.0,514.0,514.0,514.0,514.0,514.0,514.0,514.0
+Colorado Interstate Gas,CO2,Oklahoma,Texas,284.0,284.0,284.0,284.0,284.0,284.0,284.0,284.0,284.0,284.0,284.0,284.0
+Colorado Interstate Gas,CO3,Colorado,Kansas,463.0,463.0,463.0,463.0,463.0,463.0,463.0,463.0,463.0,463.0,463.0,463.0
+Colorado Interstate Gas,CO4,Kansas,Oklahoma,323.0,323.0,323.0,323.0,323.0,323.0,323.0,323.0,323.0,323.0,323.0,323.0
+Colorado Interstate Gas,CO3 Back,Kansas,Colorado,340.0,340.0,340.0,340.0,340.0,340.0,340.0,340.0,340.0,340.0,340.0,340.0
+Colorado Interstate Gas,CO2 Back,Texas,Oklahoma,200.0,200.0,200.0,200.0,200.0,200.0,200.0,200.0,200.0,200.0,200.0,200.0
+Colorado Interstate Gas,CO1 Back,Oklahoma,Colorado,200.0,200.0,200.0,200.0,200.0,200.0,200.0,200.0,200.0,200.0,200.0,200.0
+Columbia Gas Trans Corp,C1,Kentucky,West Virginia,2162.0,2162.0,2162.0,2162.0,2162.0,2162.0,2162.0,2162.0,2162.0,2162.0,2162.0,2162.0
+Columbia Gas Trans Corp,C2,West Virginia,Ohio,3126.0,896.0,896.0,896.0,896.0,896.0,896.0,896.0,896.0,896.0,896.0,896.0
+Columbia Gas Trans Corp,C3,West Virginia,Pennsylvania,1275.0,1275.0,1275.0,1275.0,1275.0,1275.0,1275.0,1275.0,1275.0,1275.0,1275.0,1275.0
+Columbia Gas Trans Corp,C4,West Virginia,Virginia,2644.0,2144.0,2144.0,2144.0,2144.0,2144.0,2144.0,2144.0,2144.0,2144.0,2144.0,2144.0
+Columbia Gas Trans Corp,C5,Virginia,Maryland,1680.0,1180.0,1180.0,1180.0,1180.0,1180.0,1180.0,1180.0,1180.0,1180.0,1180.0,1180.0
+Columbia Gas Trans Corp,C6,Pennsylvania,Maryland,57.0,57.0,57.0,57.0,57.0,57.0,57.0,57.0,57.0,57.0,57.0,57.0
+Columbia Gas Trans Corp,C7,Pennsylvania,New Jersey,423.0,423.0,423.0,423.0,261.0,261.0,261.0,261.0,261.0,261.0,261.0,261.0
+Columbia Gas Trans Corp,C8,Pennsylvania,New York,281.0,281.0,281.0,281.0,131.0,131.0,131.0,131.0,131.0,131.0,131.0,131.0
+Columbia Gas Trans Corp,C9,Pennsylvania,Delaware,174.0,174.0,174.0,174.0,174.0,174.0,174.0,174.0,174.0,174.0,174.0,174.0
+Columbia Gas Trans Corp,C10,Delaware,New Jersey,141.0,141.0,141.0,141.0,141.0,141.0,141.0,141.0,141.0,141.0,141.0,141.0
+Columbia Gas Trans Corp,C6 Back,Maryland,Pennsylvania,206.0,206.0,206.0,206.0,206.0,206.0,206.0,206.0,206.0,206.0,206.0,206.0
+Columbia Gas Trans Corp,C3 Back,Pennsylvania,West Virginia,3880.0,2380.0,2380.0,2380.0,1539.0,1095.0,1095.0,1095.0,1095.0,1095.0,1095.0,1095.0
+Columbia Gas Trans Corp,C1 Back,West Virginia,Kentucky,1799.0,1799.0,1799.0,1361.0,520.0,520.0,76.0,76.0,76.0,76.0,76.0,76.0
+Columbia Gulf Trans Co,M1,Gulf of Mexico,Louisiana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1210.0,1210.0
+Columbia Gulf Trans Co,M2,Louisiana,Mississippi,2576.0,2576.0,2576.0,2576.0,2576.0,2576.0,2576.0,2576.0,2576.0,2576.0,2576.0,2576.0
+Columbia Gulf Trans Co,M3,Mississippi,Tennessee,2268.0,2268.0,2268.0,2268.0,2268.0,2268.0,2268.0,2268.0,2268.0,2268.0,2268.0,2268.0
+Columbia Gulf Trans Co,M4,Tennessee,Kentucky,2317.0,2317.0,2317.0,2317.0,2317.0,2317.0,2317.0,2317.0,2317.0,2317.0,2317.0,2317.0
+Columbia Gulf Trans Co,M4 Back,Kentucky,Tennessee,1856.0,1856.0,1317.0,908.0,540.0,540.0,0.0,0.0,0.0,0.0,0.0,0.0
+Columbia Gulf Trans Co,M3 Back,Tennessee,Mississippi,1852.0,1852.0,1313.0,908.0,540.0,540.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dominion Cove Point LNG LP,M1,Maryland,Virginia,1385.0,1385.0,1385.0,1385.0,1385.0,1385.0,1385.0,1385.0,1385.0,1385.0,1385.0,585.0
+Dominion Cove Point LNG LP,M1 Back,Virginia,Maryland,1257.0,1257.0,1150.0,1018.0,1018.0,1018.0,1018.0,1018.0,1018.0,1018.0,1018.0,1018.0
+Dominion Transmission Co,M1,West Virginia,Ohio,959.0,959.0,959.0,709.0,709.0,709.0,709.0,709.0,709.0,709.0,709.0,709.0
+Dominion Transmission Co,M2,Ohio,Pennsylvania,560.0,560.0,560.0,560.0,560.0,560.0,560.0,560.0,560.0,560.0,560.0,560.0
+Dominion Transmission Co,M3,West Virginia,Pennsylvania,1469.0,1469.0,1469.0,1469.0,1469.0,1284.0,1284.0,800.0,800.0,800.0,800.0,800.0
+Dominion Transmission Co,M4,Pennsylvania,New York,1113.0,1113.0,1001.0,1001.0,1001.0,1001.0,1001.0,1151.0,1151.0,1151.0,1151.0,1151.0
+Dominion Transmission Co,M5,Pennsylvania,Maryland,924.0,924.0,769.0,769.0,769.0,769.0,769.0,769.0,769.0,769.0,769.0,769.0
+Dominion Transmission Co,M6,Maryland,Virginia,622.0,622.0,467.0,467.0,467.0,467.0,467.0,467.0,467.0,467.0,467.0,467.0
+Dominion Transmission Co,M6 Back,Virginia,Maryland,700.0,700.0,700.0,700.0,700.0,700.0,700.0,700.0,700.0,700.0,700.0,0.0
+Dominion Transmission Co,M5 Back,Maryland,Pennsylvania,700.0,700.0,700.0,700.0,700.0,700.0,700.0,700.0,700.0,700.0,700.0,0.0
+Dominion Transmission Co,M4 Back,New York,Pennsylvania,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0
+Dominion Transmission Co,M3 Back,Pennsylvania,West Virginia,245.0,245.0,245.0,245.0,245.0,245.0,245.0,245.0,245.0,21.0,21.0,21.0
+Dominion Transmission Co,M2 Back,Pennsylvania,Ohio,595.0,595.0,595.0,465.0,465.0,465.0,465.0,465.0,465.0,465.0,465.0,465.0
+East Tennessee Nat Gas Co,M1,Tennessee,Georgia,222.0,222.0,222.0,222.0,222.0,222.0,222.0,222.0,222.0,222.0,222.0,222.0
+East Tennessee Nat Gas Co,M2,Tennessee,Virginia,70.0,70.0,70.0,70.0,70.0,70.0,70.0,70.0,70.0,70.0,70.0,70.0
+East Tennessee Nat Gas Co,L1,Virginia,North Carolina,570.0,570.0,570.0,570.0,570.0,570.0,570.0,570.0,570.0,570.0,570.0,315.0
+East Tennessee Nat Gas Co,M2 Back,Virginia,Tennessee,220.0,220.0,220.0,220.0,220.0,220.0,220.0,220.0,70.0,70.0,70.0,70.0
+El Paso Nat Gas Co,M1,Texas,New Mexico,3252.0,3070.0,3070.0,3070.0,3070.0,3070.0,3070.0,3070.0,3070.0,3070.0,3070.0,3070.0
+El Paso Nat Gas Co,M2,New Mexico,Arizona,4679.0,4497.0,4497.0,4497.0,4497.0,4497.0,4497.0,4497.0,4685.0,4685.0,4685.0,4685.0
+El Paso Nat Gas Co,M3,Arizona,California,4174.0,3992.0,3992.0,3992.0,3992.0,3992.0,3992.0,3992.0,3992.0,3992.0,3992.0,3992.0
+El Paso Nat Gas Co,L1,Oklahoma,Texas,250.0,250.0,250.0,250.0,250.0,250.0,250.0,250.0,250.0,250.0,250.0,250.0
+El Paso Nat Gas Co,L2,Colorado,New Mexico,790.0,790.0,790.0,790.0,790.0,790.0,790.0,790.0,790.0,790.0,790.0,790.0
+El Paso Nat Gas Co,L3,Texas,Mexico,910.0,910.0,910.0,910.0,910.0,910.0,308.0,308.0,308.0,308.0,308.0,308.0
+El Paso Nat Gas Co,L4,Arizona,Mexico,512.0,512.0,512.0,489.0,489.0,489.0,489.0,251.0,251.0,251.0,251.0,251.0
+El Paso Nat Gas Co,L1 Back,Texas,Oklahoma,152.0,152.0,152.0,152.0,152.0,152.0,152.0,152.0,152.0,152.0,152.0,152.0
+El Paso Nat Gas Co,M1 Back,New Mexico,Texas,700.0,700.0,700.0,700.0,700.0,700.0,700.0,700.0,700.0,700.0,700.0,700.0
+Empire Pipeline Inc,M1,Ontario,New York,750.0,750.0,750.0,750.0,750.0,750.0,750.0,750.0,750.0,750.0,750.0,525.0
+Empire Pipeline Inc,L1,Pennsylvania,New York,350.0,350.0,350.0,350.0,350.0,350.0,350.0,350.0,0.0,0.0,0.0,0.0
+Empire Pipeline Inc,L1 Back,New York,Ontario,350.0,350.0,350.0,350.0,350.0,350.0,350.0,350.0,0.0,0.0,0.0,0.0
+"Enable Gas Transmission, LLC",M1,Texas,Oklahoma,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+"Enable Gas Transmission, LLC",M2,Oklahoma,Kansas,40.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0
+"Enable Gas Transmission, LLC",M3,Oklahoma,Arkansas,1786.0,1786.0,1786.0,1786.0,1786.0,1786.0,1786.0,1786.0,1786.0,1786.0,1654.0,1654.0
+"Enable Gas Transmission, LLC",M4,Arkansas,Missouri,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+"Enable Gas Transmission, LLC",M5,Arkansas,Texas,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0
+"Enable Gas Transmission, LLC",M6,Texas,Louisiana,2087.0,2087.0,2087.0,2087.0,2087.0,2087.0,2087.0,2087.0,2087.0,1813.0,1813.0,1497.0
+"Enable Gas Transmission, LLC",M7,Tennessee,Arkansas,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0
+"Enable Gas Transmission, LLC",M8,Louisiana,Arkansas,135.0,135.0,135.0,135.0,135.0,135.0,135.0,135.0,135.0,135.0,135.0,135.0
+"Enable Gas Transmission, LLC",M8 Back,Arkansas,Louisiana,156.0,156.0,156.0,156.0,156.0,156.0,156.0,156.0,156.0,156.0,156.0,156.0
+"Enable Gas Transmission, LLC",M6 Back,Louisiana,Texas,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0
+"Enable Gas Transmission, LLC",M4 Back,Missouri,Arkansas,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0
+"Enable Gas Transmission, LLC",M1 Back,Oklahoma,Texas,512.0,112.0,112.0,112.0,112.0,112.0,112.0,112.0,112.0,112.0,112.0,112.0
+"Enable Mississippi River Transmission, LLC",M1,Texas,Louisiana,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0
+"Enable Mississippi River Transmission, LLC",M2,Louisiana,Arkansas,730.0,730.0,730.0,730.0,730.0,730.0,730.0,730.0,730.0,730.0,730.0,730.0
+"Enable Mississippi River Transmission, LLC",M3,Arkansas,Missouri,730.0,730.0,730.0,730.0,730.0,730.0,730.0,730.0,730.0,730.0,730.0,730.0
+"Enable Mississippi River Transmission, LLC",M4,Missouri,Illinois,715.0,715.0,715.0,715.0,715.0,715.0,715.0,715.0,715.0,715.0,715.0,715.0
+"Enable Mississippi River Transmission, LLC",M4 Back,Illinois,Missouri,870.0,870.0,870.0,870.0,870.0,870.0,870.0,870.0,870.0,870.0,870.0,870.0
+"Enable Mississippi River Transmission, LLC",M2 Back,Arkansas,Louisiana,550.0,550.0,550.0,550.0,550.0,550.0,550.0,550.0,550.0,550.0,550.0,550.0
+Equitrans Inc,M1,West Virginia,Ohio,850.0,850.0,850.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Equitrans Inc,M2,West Virginia,Pennsylvania,934.0,934.0,934.0,934.0,934.0,934.0,934.0,410.0,410.0,333.0,333.0,333.0
+Equitrans Inc,M2 Back,Pennsylvania,West Virginia,70.0,70.0,70.0,70.0,70.0,70.0,70.0,70.0,70.0,70.0,70.0,70.0
+Florida Gas Trans Co,M1,Texas,Louisiana,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Florida Gas Trans Co,M2,Louisiana,Mississippi,1300.0,1300.0,1300.0,1300.0,1300.0,1300.0,1300.0,1300.0,1300.0,1300.0,1300.0,1300.0
+Florida Gas Trans Co,M3,Mississippi,Alabama,1952.0,1883.0,1883.0,1883.0,1883.0,1883.0,1883.0,1883.0,1883.0,1883.0,1883.0,1883.0
+Florida Gas Trans Co,M4,Alabama,Florida,3235.0,3175.0,3175.0,3175.0,3175.0,3175.0,3175.0,3175.0,2224.0,2224.0,2224.0,2224.0
+Gas Transmission Northwest,M1,British Columbia,Idaho,2741.0,2741.0,2741.0,2741.0,2741.0,2741.0,2741.0,2741.0,2741.0,2741.0,2741.0,2741.0
+Gas Transmission Northwest,M2,Idaho,Washington,2561.0,2561.0,2561.0,2561.0,2561.0,2561.0,2561.0,2561.0,2561.0,2561.0,2561.0,2561.0
+Gas Transmission Northwest,M3,Washington,Oregon,2131.0,2131.0,2131.0,2131.0,2131.0,2131.0,2131.0,2131.0,2131.0,2131.0,2131.0,2131.0
+Gas Transmission Northwest,M4,Oregon,California,2071.0,2071.0,2071.0,2071.0,2071.0,2071.0,2071.0,2071.0,2071.0,2071.0,2071.0,2071.0
+Great Lakes Gas Trans Ltd,M1,Manitoba,Minnesota,2412.0,2412.0,2412.0,2412.0,2412.0,2412.0,2412.0,2412.0,2412.0,2412.0,2412.0,2412.0
+Great Lakes Gas Trans Ltd,M2,Minnesota,Wisconsin,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0
+Great Lakes Gas Trans Ltd,M3,Wisconsin,Michigan,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0
+Great Lakes Gas Trans Ltd,M4,Michigan,Ontario,1799.0,1799.0,1799.0,1799.0,1799.0,1799.0,1799.0,1799.0,1799.0,1799.0,1799.0,1799.0
+Great Lakes Gas Trans Ltd,M4 Back,Ontario,Michigan,1482.0,1482.0,1482.0,1482.0,1482.0,1482.0,1482.0,1482.0,1482.0,1482.0,1482.0,1482.0
+Great Lakes Gas Trans Ltd,M3 Back,Michigan,Wisconsin,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0
+Great Lakes Gas Trans Ltd,M2 Back,Wisconsin,Minnesota,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0,2226.0
+Great Lakes Gas Trans Ltd,M1 Back,Minnesota,Manitoba,713.0,713.0,713.0,713.0,713.0,713.0,713.0,713.0,0.0,0.0,0.0,0.0
+Gulf Crossing Pipeline,M1,Oklahoma,Texas,1726.0,1726.0,1726.0,1726.0,1726.0,1726.0,1726.0,1726.0,1726.0,1726.0,0.0,0.0
+Gulf Crossing Pipeline,M2,Texas,Louisiana,1726.0,1726.0,1726.0,1726.0,1726.0,1726.0,1726.0,1726.0,1726.0,1726.0,0.0,0.0
+Gulf South Pipeline Co,M1,Texas,Louisiana,3203.0,3203.0,3203.0,3203.0,3203.0,3203.0,3203.0,3203.0,3203.0,2647.0,2647.0,947.0
+Gulf South Pipeline Co,M2,Louisiana,Mississippi,3296.0,3296.0,3296.0,3296.0,3296.0,3296.0,3296.0,3296.0,3296.0,2730.0,2730.0,1030.0
+Gulf South Pipeline Co,M3,Mississippi,Alabama,2983.0,2983.0,2983.0,2983.0,2983.0,2472.0,2472.0,2472.0,2472.0,2472.0,2472.0,950.0
+Gulf South Pipeline Co,M4,Alabama,Florida,190.0,190.0,190.0,190.0,190.0,190.0,190.0,190.0,190.0,190.0,190.0,190.0
+Gulf South Pipeline Co,M3 Back,Alabama,Mississippi,200.0,200.0,200.0,200.0,200.0,200.0,200.0,200.0,200.0,200.0,200.0,200.0
+Gulf South Pipeline Co,M2 Back,Mississippi,Louisiana,310.0,310.0,310.0,310.0,310.0,310.0,310.0,310.0,310.0,310.0,310.0,310.0
+Gulf South Pipeline Co,M1 Back,Louisiana,Texas,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0
+Gulfstream Natural Gas System (via the Gulf of Mexico),M1,Alabama,Florida,1285.0,1285.0,1285.0,1285.0,1285.0,1285.0,1285.0,1285.0,1285.0,1285.0,1285.0,1130.0
+Iroquois Pipeline Co,M1,Ontario,New York,1150.0,1150.0,1150.0,1150.0,1150.0,1150.0,1150.0,1150.0,1150.0,1150.0,1150.0,1150.0
+Iroquois Pipeline Co,M2,New York,Connecticut,866.0,866.0,866.0,866.0,866.0,866.0,866.0,866.0,866.0,866.0,866.0,773.0
+Iroquois Pipeline Co,M3,Connecticut,New York,620.0,620.0,620.0,620.0,620.0,620.0,620.0,620.0,620.0,620.0,520.0,420.0
+Kern River Gas Trans Co,M1,Wyoming,Utah,2276.0,2276.0,2276.0,2276.0,2276.0,2276.0,2276.0,2276.0,2010.0,1865.0,1865.0,1865.0
+Kern River Gas Trans Co,M2,Utah,Nevada,2445.0,2445.0,2445.0,2445.0,2445.0,2445.0,2445.0,2445.0,2179.0,2034.0,2034.0,2034.0
+Kern River Gas Trans Co,M3,Nevada,California,2146.0,2146.0,2146.0,2146.0,2146.0,2146.0,2146.0,2146.0,1880.0,1735.0,1735.0,1735.0
+Maritimes/Northeast PL Co,M1,New Brunswick,Maine,833.0,833.0,833.0,833.0,833.0,833.0,833.0,833.0,833.0,833.0,415.0,415.0
+Maritimes/Northeast PL Co,M2,Maine,New Hampshire,835.0,833.0,833.0,833.0,833.0,833.0,833.0,833.0,833.0,833.0,628.0,628.0
+Maritimes/Northeast PL Co,M3,New Hampshire,Massachusetts,835.0,833.0,833.0,833.0,833.0,833.0,833.0,833.0,833.0,833.0,628.0,628.0
+Maritimes/Northeast PL Co,M1 Back,Maine,New Brunswick,833.0,833.0,833.0,833.0,833.0,833.0,833.0,833.0,833.0,833.0,415.0,415.0
+Midcontinent Express Pipeline LLC,M1,Oklahoma,Texas,1833.0,1833.0,1833.0,1833.0,1833.0,1833.0,1833.0,1833.0,1833.0,1533.0,0.0,0.0
+Midcontinent Express Pipeline LLC,M2,Texas,Louisiana,1833.0,1833.0,1833.0,1833.0,1833.0,1833.0,1833.0,1833.0,1833.0,1533.0,0.0,0.0
+Midcontinent Express Pipeline LLC,M3,Louisiana,Mississippi,1533.0,1533.0,1533.0,1533.0,1533.0,1533.0,1533.0,1533.0,1533.0,1533.0,0.0,0.0
+Midcontinent Express Pipeline LLC,M4,Mississippi,Alabama,1533.0,1533.0,1533.0,1533.0,1533.0,1533.0,1533.0,1533.0,1533.0,1533.0,0.0,0.0
+Midwestern Gas Trans Co,M1,Tennessee,Kentucky,665.0,665.0,665.0,665.0,665.0,665.0,665.0,665.0,665.0,665.0,665.0,665.0
+Midwestern Gas Trans Co,M2,Kentucky,Indiana,664.0,664.0,664.0,664.0,664.0,664.0,664.0,664.0,664.0,664.0,664.0,664.0
+Midwestern Gas Trans Co,M3,Indiana,Illinois,500.0,500.0,500.0,500.0,500.0,500.0,500.0,500.0,500.0,650.0,650.0,650.0
+Midwestern Gas Trans Co,M3 Back,Illinois,Indiana,715.0,715.0,715.0,715.0,715.0,715.0,715.0,715.0,715.0,565.0,565.0,565.0
+Midwestern Gas Trans Co,M2 Back,Indiana,Kentucky,350.0,350.0,350.0,350.0,350.0,350.0,350.0,350.0,350.0,350.0,350.0,350.0
+Midwestern Gas Trans Co,M1 Back,Kentucky,Tennessee,350.0,350.0,350.0,350.0,350.0,350.0,350.0,350.0,350.0,350.0,350.0,350.0
+Nat Gas P L Co Of America,MC1,Texas,New Mexico,550.0,550.0,550.0,550.0,550.0,550.0,550.0,550.0,550.0,550.0,550.0,550.0
+Nat Gas P L Co Of America,MC2,New Mexico,Texas,656.0,656.0,656.0,656.0,656.0,656.0,656.0,656.0,656.0,656.0,656.0,656.0
+Nat Gas P L Co Of America,MC3,Texas,Oklahoma,1433.0,1433.0,1433.0,1433.0,1433.0,1433.0,1433.0,1433.0,1433.0,1433.0,1433.0,1433.0
+Nat Gas P L Co Of America,MC4,Oklahoma,Kansas,1202.0,1202.0,1202.0,1202.0,1202.0,1202.0,1202.0,1202.0,1202.0,1202.0,1202.0,1202.0
+Nat Gas P L Co Of America,MC5,Kansas,Nebraska,1224.0,1224.0,1224.0,1224.0,1224.0,1224.0,1224.0,1224.0,1224.0,1224.0,1224.0,1224.0
+Nat Gas P L Co Of America,MC6,Nebraska,Iowa,1389.0,1389.0,1389.0,1389.0,1389.0,1389.0,1389.0,1389.0,1389.0,1389.0,1389.0,1389.0
+Nat Gas P L Co Of America,MC7,Iowa,Illinois,1777.0,1777.0,1777.0,1777.0,1777.0,1777.0,1777.0,1777.0,1777.0,1777.0,1777.0,1777.0
+Nat Gas P L Co Of America,MC4 Back,Kansas,Oklahoma,300.0,300.0,300.0,300.0,300.0,300.0,300.0,300.0,300.0,300.0,300.0,300.0
+Nat Gas P L Co Of America,MC3 Back,Oklahoma,Texas,1390.0,1390.0,1390.0,1390.0,1390.0,1390.0,1390.0,1390.0,1390.0,1390.0,1390.0,1390.0
+Nat Gas P L Co Of America,GC1,Louisiana,Texas,140.0,140.0,140.0,140.0,140.0,140.0,140.0,140.0,140.0,140.0,140.0,140.0
+Nat Gas P L Co Of America,GC2,Gulf of Mexico,Texas,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0
+Nat Gas P L Co Of America,GC3,Texas,Arkansas,1805.0,1805.0,1805.0,1805.0,1805.0,1805.0,1805.0,1805.0,1805.0,1805.0,1805.0,1805.0
+Nat Gas P L Co Of America,GC4,Arkansas,Missouri,1574.0,1574.0,1574.0,1574.0,1574.0,1574.0,1574.0,1574.0,1574.0,1574.0,1574.0,1574.0
+Nat Gas P L Co Of America,GC5,Missouri,Illinois,1650.0,1650.0,1650.0,1650.0,1650.0,1650.0,1650.0,1650.0,1650.0,1650.0,1650.0,1650.0
+Nat Gas P L Co Of America,GC6,Illinois,Indiana,710.0,710.0,710.0,710.0,710.0,710.0,710.0,710.0,710.0,710.0,710.0,710.0
+Nat Gas P L Co Of America,GC7,Illinois,Wisconsin,55.0,55.0,55.0,55.0,55.0,55.0,55.0,55.0,55.0,55.0,55.0,55.0
+Nat Gas P L Co Of America,GC3 Back,Arkansas,Texas,1060.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0
+Nat Gas P L Co Of America,GC1 Back,Texas,Louisiana,996.0,996.0,996.0,996.0,996.0,996.0,996.0,996.0,996.0,996.0,996.0,796.0
+National Fuel Gas Supply Co,M1,New York,Pennsylvania,484.0,484.0,484.0,484.0,484.0,484.0,484.0,484.0,484.0,484.0,484.0,484.0
+National Fuel Gas Supply Co,M1 Back,Pennsylvania,New York,757.0,757.0,757.0,757.0,757.0,757.0,757.0,437.0,437.0,437.0,437.0,437.0
+North Baja Pipeline Co,M1,Arizona,California,500.0,500.0,500.0,500.0,500.0,500.0,500.0,500.0,500.0,500.0,500.0,500.0
+North Baja Pipeline Co,M2,California,Mexico,500.0,500.0,500.0,500.0,500.0,500.0,500.0,500.0,500.0,500.0,500.0,500.0
+North Baja Pipeline Co,M2 Back,Mexico,California,614.0,614.0,614.0,614.0,614.0,614.0,614.0,614.0,614.0,614.0,614.0,614.0
+North Baja Pipeline Co,M1 Back,California,Arizona,695.0,695.0,695.0,695.0,695.0,695.0,695.0,695.0,695.0,614.0,614.0,614.0
+Northern Border Pipeline Co,M1,Saskatchewan,Montana,2373.0,2373.0,2373.0,2373.0,2373.0,2373.0,2373.0,2373.0,2373.0,2373.0,2373.0,2373.0
+Northern Border Pipeline Co,M2,Montana,North Dakota,2180.0,2180.0,2180.0,2180.0,2180.0,2180.0,2180.0,2180.0,2180.0,2180.0,2180.0,2180.0
+Northern Border Pipeline Co,M3,North Dakota,South Dakota,2375.0,2375.0,2375.0,2375.0,2375.0,2375.0,2375.0,2375.0,2375.0,2375.0,2375.0,2375.0
+Northern Border Pipeline Co,M4,South Dakota,Minnesota,2355.0,2355.0,2355.0,2355.0,2355.0,2355.0,2355.0,2355.0,2355.0,2355.0,2355.0,2355.0
+Northern Border Pipeline Co,M5,Minnesota,Iowa,2250.0,2250.0,2250.0,2250.0,2250.0,2250.0,2250.0,2250.0,2250.0,2250.0,2250.0,2250.0
+Northern Border Pipeline Co,M6,Iowa,Illinois,988.0,988.0,988.0,988.0,988.0,988.0,988.0,988.0,988.0,988.0,988.0,988.0
+Northern Border Pipeline Co,M7,Illinois,Indiana,917.0,917.0,917.0,917.0,917.0,917.0,917.0,917.0,917.0,917.0,917.0,917.0
+Northern Natural Gas Co,M1,New Mexico,Texas,245.0,245.0,245.0,245.0,245.0,245.0,245.0,245.0,245.0,245.0,245.0,245.0
+Northern Natural Gas Co,M2,Oklahoma,Texas,913.0,913.0,913.0,913.0,913.0,913.0,913.0,913.0,913.0,913.0,913.0,913.0
+Northern Natural Gas Co,M3,Texas,Oklahoma,1230.0,1230.0,1230.0,1230.0,1230.0,1230.0,1230.0,1230.0,1230.0,1230.0,1230.0,1230.0
+Northern Natural Gas Co,M4,Oklahoma,Kansas,1566.0,1566.0,1566.0,1566.0,1566.0,1566.0,1566.0,1566.0,1566.0,1566.0,1566.0,1566.0
+Northern Natural Gas Co,M5,Kansas,Nebraska,2172.0,2172.0,2172.0,2172.0,2172.0,2172.0,2172.0,2172.0,2172.0,2172.0,2172.0,2172.0
+Northern Natural Gas Co,M6,Nebraska,Iowa,1913.0,1913.0,1913.0,1913.0,1913.0,1913.0,1913.0,1913.0,1913.0,1913.0,1913.0,1913.0
+Northern Natural Gas Co,M7,Iowa,South Dakota,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0
+Northern Natural Gas Co,M8,Iowa,Minnesota,1930.0,1930.0,1930.0,1930.0,1930.0,1930.0,1930.0,1930.0,1930.0,1930.0,1930.0,1930.0
+Northern Natural Gas Co,M9,Minnesota,Wisconsin,213.0,213.0,213.0,213.0,213.0,213.0,213.0,213.0,213.0,213.0,213.0,213.0
+Northern Natural Gas Co,M10,Wisconsin,Michigan,82.0,82.0,82.0,82.0,82.0,82.0,82.0,82.0,82.0,82.0,82.0,82.0
+Northern Natural Gas Co,M11,Iowa,Illinois,575.0,575.0,575.0,575.0,575.0,575.0,575.0,575.0,575.0,575.0,575.0,575.0
+Northern Natural Gas Co,M12,Illinois,Wisconsin,335.0,335.0,335.0,335.0,335.0,335.0,335.0,335.0,335.0,335.0,335.0,335.0
+Northern Natural Gas Co,L1,Nebraska,South Dakota,125.0,125.0,125.0,125.0,125.0,125.0,125.0,125.0,125.0,125.0,125.0,125.0
+Northern Natural Gas Co,L2,South Dakota,Minnesota,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0
+Northern Natural Gas Co,L3,South Dakota,Iowa,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0
+Northwest Pipeline Corp,RM1,Colorado,Utah,308.0,308.0,308.0,308.0,308.0,308.0,308.0,308.0,308.0,158.0,158.0,158.0
+Northwest Pipeline Corp,RM2,Utah,Colorado,337.0,337.0,337.0,337.0,337.0,337.0,337.0,337.0,337.0,337.0,337.0,337.0
+Northwest Pipeline Corp,RM3,Utah,Wyoming,510.0,510.0,510.0,510.0,510.0,510.0,510.0,510.0,510.0,360.0,360.0,360.0
+Northwest Pipeline Corp,RM4,Wyoming,Utah,625.0,625.0,675.0,675.0,675.0,675.0,675.0,675.0,675.0,675.0,675.0,675.0
+Northwest Pipeline Corp,RM5,Utah,Idaho,680.0,680.0,675.0,675.0,675.0,675.0,675.0,675.0,675.0,675.0,675.0,675.0
+Northwest Pipeline Corp,RM6,Idaho,Oregon,429.0,429.0,429.0,429.0,429.0,429.0,429.0,429.0,429.0,429.0,429.0,429.0
+Northwest Pipeline Corp,PC1,Oregon,Washington,883.0,883.0,883.0,883.0,883.0,883.0,883.0,883.0,883.0,883.0,883.0,883.0
+Northwest Pipeline Corp,PC2,British Columbia,Washington,1562.0,1562.0,1562.0,1562.0,1562.0,1562.0,1562.0,1562.0,1562.0,1562.0,1562.0,1562.0
+Northwest Pipeline Corp,PC3,Washington,Oregon,1289.0,1289.0,1289.0,1289.0,1289.0,1289.0,1289.0,1289.0,1289.0,1289.0,1289.0,1289.0
+Northwest Pipeline Corp,PC2 Back,Washington,British Columbia,51.0,51.0,51.0,51.0,51.0,51.0,51.0,51.0,51.0,51.0,51.0,51.0
+Northwest Pipeline Corp,RM6 Back,Oregon,Idaho,481.0,481.0,481.0,481.0,481.0,481.0,481.0,481.0,481.0,481.0,481.0,481.0
+Northwest Pipeline Corp,RM5 Back,Idaho,Utah,298.0,298.0,298.0,298.0,298.0,298.0,298.0,298.0,298.0,298.0,298.0,298.0
+Northwest Pipeline Corp,L1,Idaho,Nevada,158.0,158.0,158.0,158.0,158.0,158.0,158.0,158.0,158.0,158.0,158.0,158.0
+Northwest Pipeline Corp,L2,Washington,Idaho,59.0,59.0,59.0,59.0,59.0,59.0,59.0,59.0,59.0,59.0,59.0,59.0
+Panhandle Eastern P L Co,M1,Texas,Oklahoma,445.0,445.0,445.0,445.0,445.0,445.0,445.0,445.0,445.0,445.0,445.0,445.0
+Panhandle Eastern P L Co,M2,Oklahoma,Kansas,1395.0,1395.0,1395.0,1395.0,1395.0,1395.0,1395.0,1395.0,1395.0,1395.0,1395.0,1395.0
+Panhandle Eastern P L Co,M3,Kansas,Missouri,1559.0,1559.0,1559.0,1559.0,1559.0,1559.0,1559.0,1559.0,1559.0,1559.0,1559.0,1559.0
+Panhandle Eastern P L Co,M4,Missouri,Illinois,1422.0,1422.0,1422.0,1422.0,1422.0,1422.0,1422.0,1422.0,1422.0,1422.0,1422.0,1422.0
+Panhandle Eastern P L Co,M5,Illinois,Indiana,1573.0,1573.0,1573.0,1573.0,1573.0,1573.0,1573.0,1573.0,1573.0,1573.0,1573.0,1573.0
+Panhandle Eastern P L Co,M6,Indiana,Ohio,1314.0,1314.0,1314.0,1314.0,1314.0,1314.0,1314.0,1314.0,1314.0,1314.0,1314.0,1314.0
+Panhandle Eastern P L Co,M7,Ohio,Michigan,960.0,960.0,960.0,960.0,960.0,960.0,960.0,960.0,960.0,960.0,960.0,960.0
+Panhandle Eastern P L Co,L1,Michigan,Ontario,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0
+Panhandle Eastern P L Co,L2,Kansas,Colorado,45.0,45.0,45.0,45.0,45.0,45.0,45.0,45.0,45.0,45.0,45.0,45.0
+Panhandle Eastern P L Co,L3,Ohio,Indiana,1250.0,900.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0
+Portland Gas Trans Co,M1,Quebec,New Hampshire,325.0,274.0,216.0,216.0,216.0,216.0,216.0,216.0,216.0,216.0,216.0,216.0
+Portland Gas Trans Co,M2,New Hampshire,Maine,325.0,274.0,216.0,216.0,216.0,216.0,216.0,216.0,216.0,216.0,216.0,216.0
+Portland Gas Trans Co,M2 Back,Maine,New Hampshire,216.0,216.0,216.0,216.0,216.0,216.0,216.0,216.0,216.0,216.0,216.0,216.0
+Portland Gas Trans Co,M1 Back,New Hampshire,Quebec,216.0,216.0,216.0,216.0,216.0,216.0,216.0,216.0,216.0,216.0,216.0,216.0
+Questar P L Co,M1,Colorado,Utah,255.0,255.0,255.0,255.0,255.0,255.0,255.0,255.0,255.0,255.0,255.0,255.0
+Questar P L Co,M2,Utah,Wyoming,354.0,354.0,354.0,354.0,354.0,354.0,354.0,354.0,354.0,354.0,354.0,354.0
+Questar P L Co,M3,Utah,Colorado,221.0,221.0,221.0,221.0,221.0,221.0,221.0,221.0,221.0,221.0,98.0,23.0
+Questar P L Co,M4,Colorado,Wyoming,165.0,165.0,165.0,165.0,165.0,165.0,165.0,165.0,165.0,165.0,165.0,165.0
+Questar P L Co,M5,Wyoming,Utah,1423.0,1423.0,1423.0,1423.0,1423.0,1423.0,1423.0,1423.0,1423.0,1423.0,1423.0,1423.0
+Questar P L Co,M6,Wyoming,Colorado,145.0,145.0,145.0,145.0,145.0,145.0,145.0,145.0,145.0,145.0,144.8,144.8
+Questar Southern Trails Pipeline Co,M1,New Mexico,Arizona,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0
+Questar Southern Trails Pipeline Co,M2,Arizona,California,80.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0
+Rockies Express Pipeline,M1,Colorado,Wyoming,3200.0,1600.0,1600.0,1600.0,1600.0,1600.0,1600.0,1600.0,1600.0,1600.0,1450.0,1400.0
+Rockies Express Pipeline,M2,Wyoming,Colorado,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1500.0,1400.0
+Rockies Express Pipeline,M3,Colorado,Wyoming,3200.0,1600.0,1600.0,1600.0,1600.0,1600.0,1600.0,1600.0,1600.0,1600.0,1450.0,0.0
+Rockies Express Pipeline,M4,Wyoming,Nebraska,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1500.0,0.0
+Rockies Express Pipeline,M5,Nebraska,Colorado,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1500.0,0.0
+Rockies Express Pipeline,M6,Colorado,Nebraska,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1500.0,0.0
+Rockies Express Pipeline,M7,Nebraska,Kansas,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1500.0,0.0
+Rockies Express Pipeline,M8,Kansas,Missouri,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1500.0,0.0
+Rockies Express Pipeline,M9,Missouri,Illinois,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,0.0,0.0
+Rockies Express Pipeline,M10,Illinois,Indiana,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,0.0,0.0
+Rockies Express Pipeline,M11,Indiana,Ohio,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,1800.0,0.0,0.0
+Rockies Express Pipeline,M11 Back,Ohio,Indiana,2000.0,2000.0,2000.0,1200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rockies Express Pipeline,M10 Back,Indiana,Illinois,2000.0,2000.0,2000.0,2400.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rover Pipeline,SPZ,Pennsylvania,West Virginia,400.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rover Pipeline,SPZ,West Virginia,Ohio,1600.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ruby Pipeline LLC,M1,Wyoming,Utah,1500.0,1500.0,1500.0,1500.0,1500.0,1500.0,1500.0,1500.0,0.0,0.0,0.0,0.0
+Ruby Pipeline LLC,M2,Utah,Nevada,1500.0,1500.0,1500.0,1500.0,1500.0,1500.0,1500.0,1500.0,0.0,0.0,0.0,0.0
+Ruby Pipeline LLC,M3,Nevada,Oregon,1500.0,1500.0,1500.0,1500.0,1500.0,1500.0,1500.0,1500.0,0.0,0.0,0.0,0.0
+Sabal Trail,,Alabama,Georgia,830.0,830.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sabal Trail,,Georgia,Florida,830.0,830.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Southeast Supply Header Pipeline,M1,Louisiana,Mississippi,1545.0,1545.0,1545.0,1545.0,1500.0,1500.0,1500.0,1500.0,1140.0,1140.0,1140.0,0.0
+Southeast Supply Header Pipeline,M2,Mississippi,Alabama,1070.0,1070.0,1070.0,1070.0,1025.0,1025.0,1025.0,1025.0,1025.0,1025.0,1025.0,0.0
+Southern Natural Gas Co,M1,Texas,Louisiana,110.0,110.0,110.0,110.0,110.0,110.0,110.0,110.0,110.0,110.0,110.0,110.0
+Southern Natural Gas Co,M2,Gulf of Mexico,Louisiana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,650.0,650.0,650.0,650.0,650.0
+Southern Natural Gas Co,M3,Louisiana,Mississippi,1853.0,1853.0,1853.0,1853.0,1853.0,1853.0,1853.0,1853.0,1853.0,1853.0,1853.0,1853.0
+Southern Natural Gas Co,M4,Mississippi,Alabama,3126.0,3126.0,3126.0,3126.0,3126.0,3126.0,3126.0,3001.0,2876.0,2876.0,2876.0,2876.0
+Southern Natural Gas Co,M5,Alabama,Georgia,2760.0,2760.0,2760.0,2760.0,2760.0,2760.0,2760.0,2635.0,2635.0,2510.0,2510.0,2510.0
+Southern Natural Gas Co,M6,Georgia,Florida,646.0,646.0,646.0,411.0,411.0,411.0,411.0,411.0,411.0,411.0,411.0,411.0
+Southern Natural Gas Co,M7,Georgia,South Carolina,454.0,454.0,454.0,454.0,454.0,454.0,454.0,454.0,454.0,454.0,454.0,454.0
+Southern Natural Gas Co,M8,Georgia,Tennessee,151.0,151.0,151.0,151.0,151.0,151.0,151.0,151.0,151.0,151.0,151.0,151.0
+Southern Star Central Gas PL Co,M1,Wyoming,Colorado,208.0,208.0,208.0,208.0,208.0,208.0,208.0,208.0,208.0,208.0,208.0,208.0
+Southern Star Central Gas PL Co,M2,Colorado,Kansas,216.0,216.0,216.0,216.0,216.0,216.0,216.0,216.0,216.0,216.0,216.0,216.0
+Southern Star Central Gas PL Co,M3,Kansas,Missouri,1270.0,1270.0,1270.0,1270.0,1270.0,1270.0,1270.0,1270.0,1270.0,1270.0,1270.0,1270.0
+Southern Star Central Gas PL Co,M4,Kansas,Oklahoma,259.0,259.0,259.0,259.0,259.0,259.0,259.0,259.0,259.0,259.0,259.0,259.0
+Southern Star Central Gas PL Co,M5,Texas,Oklahoma,145.0,145.0,145.0,145.0,145.0,145.0,145.0,145.0,145.0,145.0,145.0,145.0
+Southern Star Central Gas PL Co,M6,Oklahoma,Kansas,897.0,897.0,897.0,897.0,897.0,897.0,897.0,897.0,897.0,897.0,897.0,897.0
+Southern Star Central Gas PL Co,L1,Oklahoma,Missouri,80.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0
+Southern Star Central Gas PL Co,L2,Kansas,Nebraska,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+Tallgrass Interstate Gas Transmission,M1,Wyoming,Nebraska,120.0,120.0,120.0,120.0,120.0,375.0,375.0,375.0,375.0,375.0,375.0,375.0
+Tallgrass Interstate Gas Transmission,M2,Colorado,Nebraska,222.0,222.0,222.0,222.0,222.0,477.0,477.0,477.0,477.0,477.0,477.0,477.0
+Tallgrass Interstate Gas Transmission,M3,Colorado,Kansas,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0
+Tallgrass Interstate Gas Transmission,M4,Kansas,Nebraska,210.0,210.0,210.0,210.0,210.0,210.0,210.0,210.0,210.0,210.0,210.0,210.0
+Tallgrass Interstate Gas Transmission,M5,Kansas,Missouri,255.0,255.0,255.0,255.0,255.0,255.0,255.0,255.0,255.0,255.0,255.0,255.0
+Tallgrass Interstate Gas Transmission,M6,Texas,Oklahoma,135.0,135.0,135.0,135.0,135.0,135.0,135.0,135.0,135.0,135.0,135.0,135.0
+Tallgrass Interstate Gas Transmission,M7,Kansas,Oklahoma,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Tallgrass Interstate Gas Transmission,M6 Back,Oklahoma,Texas,35.0,35.0,35.0,35.0,35.0,35.0,35.0,35.0,35.0,35.0,35.0,35.0
+Tallgrass Interstate Gas Transmission,M3 Back,Nebraska,Kansas,40.0,40.0,40.0,40.0,40.0,295.0,295.0,295.0,295.0,295.0,295.0,295.0
+Tallgrass Interstate Gas Transmission,M2 Back,Nebraska,Colorado,97.0,97.0,97.0,97.0,97.0,352.0,352.0,352.0,352.0,352.0,351.5,351.5
+Tennessee Gas Pipeline Co,MX1,Texas,Mexico,888.0,505.0,505.0,505.0,505.0,505.0,505.0,505.0,505.0,505.0,505.0,505.0
+Tennessee Gas Pipeline Co,MX1 Back,Mexico,Texas,215.0,215.0,215.0,215.0,215.0,215.0,215.0,215.0,215.0,215.0,215.0,215.0
+Tennessee Gas Pipeline Co,GC1,Gulf of Mexico,Louisiana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3217.0,3217.0,3217.0,3217.0,3217.0
+Tennessee Gas Pipeline Co,GC2,Texas,Louisiana,1407.0,1407.0,1407.0,1407.0,1407.0,1407.0,1407.0,1407.0,1407.0,1407.0,1307.0,1307.0
+Tennessee Gas Pipeline Co,GC3,Louisiana,Arkansas,1581.0,1581.0,1581.0,1581.0,1581.0,1581.0,1581.0,1581.0,1581.0,1581.0,1581.0,1581.0
+Tennessee Gas Pipeline Co,GC4,Arkansas,Mississippi,1573.0,1573.0,1573.0,1573.0,1573.0,1573.0,1573.0,1573.0,1573.0,1573.0,1573.0,1573.0
+Tennessee Gas Pipeline Co,GC5,Mississippi,Tennessee,2332.0,2332.0,2332.0,2332.0,2332.0,2332.0,2332.0,2332.0,2332.0,2332.0,2332.0,2332.0
+Tennessee Gas Pipeline Co,GC6,Louisiana,Mississippi,2520.0,2520.0,2520.0,2520.0,2520.0,2520.0,2520.0,2520.0,2520.0,2520.0,2520.0,2520.0
+Tennessee Gas Pipeline Co,GC7,Mississippi,Alabama,1899.0,1899.0,1899.0,1899.0,1899.0,1899.0,1899.0,1899.0,1899.0,1899.0,1899.0,1899.0
+Tennessee Gas Pipeline Co,GC8,Alabama,Tennessee,1832.0,1832.0,1832.0,1832.0,1832.0,1832.0,1832.0,1832.0,1832.0,1832.0,1832.0,1832.0
+Tennessee Gas Pipeline Co,GC9,Tennessee,Kentucky,2771.0,2771.0,2771.0,2771.0,2771.0,2771.0,2771.0,2771.0,2771.0,2771.0,2771.0,2771.0
+Tennessee Gas Pipeline Co,GC10,Kentucky,West Virginia,681.0,681.0,681.0,681.0,681.0,681.0,681.0,681.0,681.0,681.0,681.0,681.0
+Tennessee Gas Pipeline Co,GC11,Kentucky,Ohio,1777.0,1777.0,1777.0,1777.0,1777.0,1777.0,1777.0,1777.0,1777.0,1777.0,1777.0,1777.0
+Tennessee Gas Pipeline Co,GC12,Ohio,Pennsylvania,1575.0,1575.0,1575.0,1575.0,1575.0,1575.0,1575.0,1575.0,1575.0,1575.0,1575.0,1575.0
+Tennessee Gas Pipeline Co,GC12 Back,Pennsylvania,Ohio,1575.0,1575.0,1575.0,1575.0,1575.0,1575.0,1575.0,1575.0,1575.0,1575.0,0.0,0.0
+Tennessee Gas Pipeline Co,GC11 Back,Ohio,Kentucky,1777.0,1777.0,1777.0,1777.0,1777.0,1777.0,1777.0,1777.0,1777.0,1777.0,0.0,0.0
+Tennessee Gas Pipeline Co,GC10 Back,West Virginia,Kentucky,902.0,590.0,590.0,590.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tennessee Gas Pipeline Co,GC9 Back,Kentucky,Tennessee,2636.0,2580.0,2580.0,1350.0,1350.0,850.0,850.0,850.0,850.0,850.0,0.0,0.0
+Tennessee Gas Pipeline Co,GC8 Back,Tennessee,Alabama,1753.0,1753.0,1450.0,1450.0,1450.0,950.0,950.0,950.0,950.0,950.0,500.0,500.0
+Tennessee Gas Pipeline Co,GC7 Back,Alabama,Mississippi,1450.0,1450.0,1450.0,1450.0,1450.0,950.0,950.0,950.0,950.0,950.0,0.0,0.0
+Tennessee Gas Pipeline Co,GC5 Back,Tennessee,Mississippi,1500.0,1500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tennessee Gas Pipeline Co,GC4 Back,Mississippi,Arkansas,1707.0,1707.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tennessee Gas Pipeline Co,GC3 Back,Arkansas,Louisiana,1707.0,1707.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tennessee Gas Pipeline Co,GC2 Back,Louisiana,Texas,1317.0,1317.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tennessee Gas Pipeline Co,NE1,Ontario,New York,1297.0,1297.0,1297.0,1297.0,1297.0,1297.0,1297.0,1297.0,1297.0,1297.0,1297.0,1297.0
+Tennessee Gas Pipeline Co,NE2,Pennsylvania,New York,1230.0,1230.0,1230.0,1230.0,1230.0,1230.0,1230.0,980.0,980.0,980.0,980.0,980.0
+Tennessee Gas Pipeline Co,NE3,Pennsylvania,New Jersey,1586.0,1586.0,1586.0,1586.0,1586.0,1586.0,950.0,950.0,600.0,600.0,600.0,600.0
+Tennessee Gas Pipeline Co,NE4,New Jersey,New York,377.0,377.0,377.0,377.0,377.0,377.0,377.0,377.0,377.0,377.0,377.0,377.0
+Tennessee Gas Pipeline Co,NE5,New York,Connecticut,222.0,222.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0
+Tennessee Gas Pipeline Co,NE6,Connecticut,Massachusetts,80.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0
+Tennessee Gas Pipeline Co,NE7,New York,Massachusetts,1169.0,1169.0,1169.0,1169.0,1169.0,1169.0,1169.0,1169.0,1169.0,1169.0,1169.0,1169.0
+Tennessee Gas Pipeline Co,NE8,Massachusetts,New Hampshire,201.0,201.0,201.0,201.0,201.0,201.0,201.0,201.0,201.0,201.0,201.0,201.0
+Tennessee Gas Pipeline Co,NE9,Massachusetts,Rhode Island,173.0,173.0,173.0,173.0,173.0,173.0,173.0,173.0,173.0,173.0,173.0,173.0
+Tennessee Gas Pipeline Co,NE6 Back,Massachusetts,Connecticut,164.0,164.0,164.0,164.0,164.0,164.0,164.0,164.0,164.0,164.0,164.0,164.0
+Tennessee Gas Pipeline Co,NE1 Back,New York,Ontario,700.0,700.0,700.0,700.0,420.0,420.0,420.0,100.0,100.0,100.0,100.0,100.0
+Texas Eastern Trans Corp,MX1,Texas,Mexico,431.0,431.0,431.0,431.0,431.0,431.0,431.0,431.0,431.0,431.0,431.0,431.0
+Texas Eastern Trans Corp,MX1 Back,Mexico,Texas,350.0,350.0,350.0,350.0,350.0,350.0,350.0,350.0,350.0,350.0,350.0,350.0
+Texas Eastern Trans Corp,GC1,Gulf of Mexico,Louisiana,990.0,990.0,990.0,990.0,990.0,990.0,990.0,990.0,990.0,990.0,990.0,990.0
+Texas Eastern Trans Corp,GC2,Texas,Louisiana,945.0,945.0,945.0,945.0,945.0,945.0,945.0,945.0,945.0,945.0,945.0,945.0
+Texas Eastern Trans Corp,GC3,Louisiana,Mississippi,2202.0,2202.0,2202.0,2202.0,2202.0,2202.0,2202.0,2202.0,2202.0,2202.0,2202.0,2202.0
+Texas Eastern Trans Corp,GC4,Mississippi,Alabama,2222.0,2222.0,2222.0,2222.0,2222.0,2222.0,2222.0,2222.0,2222.0,2222.0,2222.0,2222.0
+Texas Eastern Trans Corp,GC5,Alabama,Tennessee,2308.0,2308.0,2308.0,2308.0,2308.0,2308.0,2308.0,2308.0,2308.0,2308.0,2308.0,2308.0
+Texas Eastern Trans Corp,GC6,Tennessee,Kentucky,2200.0,2200.0,2200.0,2200.0,2200.0,2200.0,2200.0,2200.0,2200.0,2200.0,2200.0,2200.0
+Texas Eastern Trans Corp,GC7,Kentucky,Ohio,2066.0,2066.0,2066.0,2066.0,2066.0,2066.0,2066.0,2066.0,2066.0,2066.0,2066.0,2066.0
+Texas Eastern Trans Corp,CG8,Ohio,West Virginia,3340.0,3340.0,3340.0,3340.0,3340.0,3340.0,3340.0,3340.0,3190.0,3040.0,2890.0,2740.0
+Texas Eastern Trans Corp,CG9,West Virginia,Pennsylvania,3225.0,3225.0,3225.0,3225.0,3225.0,3225.0,3225.0,3025.0,3025.0,3025.0,2875.0,2725.0
+Texas Eastern Trans Corp,CG9 Back,Pennsylvania,West Virginia,2921.0,2921.0,2280.0,1920.0,900.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Texas Eastern Trans Corp,CG8 Back,West Virginia,Ohio,2920.0,2920.0,2280.0,1920.0,900.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Texas Eastern Trans Corp,GC7 Back,Ohio,Kentucky,2247.0,2247.0,1583.0,1225.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Texas Eastern Trans Corp,GC6 Back,Kentucky,Tennessee,1920.0,1920.0,1500.0,1150.0,688.0,300.0,0.0,0.0,0.0,0.0,0.0,0.0
+Texas Eastern Trans Corp,GC5 Back,Tennessee,Alabama,1820.0,1820.0,1320.0,975.0,600.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Texas Eastern Trans Corp,GC4 Back,Alabama,Mississippi,1820.0,1820.0,1320.0,975.0,600.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Texas Eastern Trans Corp,GC3 Back,Mississippi,Louisiana,1250.0,1250.0,1250.0,991.0,550.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Texas Eastern Trans Corp,M2 Back,Louisiana,Texas,945.0,945.0,945.0,945.0,945.0,945.0,945.0,945.0,945.0,945.0,945.0,945.0
+Texas Eastern Trans Corp,MW1,Texas,Arkansas,379.0,379.0,379.0,379.0,379.0,379.0,379.0,379.0,267.0,267.0,267.0,267.0
+Texas Eastern Trans Corp,MW2,Arkansas,Missouri,324.0,324.0,324.0,324.0,324.0,324.0,324.0,324.0,324.0,324.0,324.0,324.0
+Texas Eastern Trans Corp,MW3,Missouri,Illinois,300.0,300.0,300.0,300.0,300.0,300.0,300.0,300.0,300.0,300.0,300.0,300.0
+Texas Eastern Trans Corp,MW4,Illinois,Indiana,400.0,400.0,400.0,400.0,400.0,400.0,400.0,400.0,400.0,400.0,400.0,400.0
+Texas Eastern Trans Corp,MW5,Indiana,Ohio,976.0,976.0,976.0,976.0,976.0,976.0,976.0,976.0,976.0,976.0,976.0,976.0
+Texas Eastern Trans Corp,MW5 Back,Ohio,Indiana,716.0,716.0,425.0,425.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Texas Eastern Trans Corp,NE1,Pennsylvania,West Virginia,2921.0,2921.0,2280.0,1920.0,900.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Texas Eastern Trans Corp,NE2,Pennsylvania,Delaware,295.0,295.0,295.0,295.0,295.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0
+Texas Eastern Trans Corp,NE3,Pennsylvania,Maryland,300.0,300.0,300.0,300.0,300.0,300.0,300.0,300.0,300.0,300.0,300.0,300.0
+Texas Eastern Trans Corp,NE4,Pennsylvania,New Jersey,3850.0,3850.0,3850.0,3850.0,3850.0,3250.0,3250.0,3250.0,3250.0,3250.0,3250.0,3100.0
+Texas Eastern Trans Corp,NE5,New Jersey,New York,1500.0,1500.0,1500.0,1500.0,1500.0,1500.0,700.0,700.0,700.0,700.0,700.0,700.0
+Texas Eastern Trans Corp,NE3 Back,Maryland,Pennsylvania,300.0,300.0,300.0,300.0,300.0,300.0,300.0,300.0,300.0,300.0,300.0,300.0
+Texas Gas Transmission Co,M1,Gulf of Mexico,Louisiana,501.0,501.0,501.0,501.0,501.0,501.0,501.0,501.0,501.0,501.0,501.0,501.0
+Texas Gas Transmission Co,M2,Texas,Louisiana,260.0,260.0,260.0,260.0,260.0,260.0,260.0,260.0,260.0,260.0,260.0,260.0
+Texas Gas Transmission Co,M3,Louisiana,Arkansas,2002.0,2002.0,2002.0,2002.0,2002.0,2002.0,2002.0,2002.0,2002.0,2002.0,2002.0,2002.0
+Texas Gas Transmission Co,M4,Arkansas,Mississippi,4810.0,4810.0,4810.0,4810.0,4810.0,4810.0,4810.0,4810.0,4810.0,4810.0,3843.0,3843.0
+Texas Gas Transmission Co,M5,Mississippi,Tennessee,1980.0,1980.0,1980.0,1980.0,1980.0,1980.0,1980.0,1980.0,1980.0,1980.0,1980.0,1980.0
+Texas Gas Transmission Co,M6,Tennessee,Kentucky,1675.0,1675.0,1675.0,1675.0,1675.0,1675.0,1675.0,1675.0,1675.0,1675.0,1675.0,1675.0
+Texas Gas Transmission Co,M7,Kentucky,Indiana,1564.0,1564.0,1564.0,1510.0,1510.0,1510.0,1510.0,1510.0,1510.0,1510.0,1510.0,1510.0
+Texas Gas Transmission Co,M8,Indiana,Ohio,1007.0,1007.0,1007.0,1007.0,1007.0,1007.0,1007.0,1007.0,1007.0,1007.0,1007.0,1007.0
+Texas Gas Transmission Co,M9,Ohio,Indiana,1042.0,1042.0,758.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Texas Gas Transmission Co,L1,Indiana,Illinois,44.0,44.0,44.0,44.0,44.0,44.0,44.0,44.0,44.0,44.0,44.0,44.0
+Texas Gas Transmission Co,M9 Back,Indiana,Ohio,1007.0,1007.0,1007.0,1007.0,1007.0,1007.0,1007.0,1007.0,1007.0,1007.0,1007.0,1007.0
+Texas Gas Transmission Co,M8 Back,Ohio,Indiana,1042.0,1042.0,758.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Texas Gas Transmission Co,M7 Back,Indiana,Kentucky,1042.0,1042.0,758.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Texas Gas Transmission Co,M6 Back,Kentucky,Tennessee,1067.0,1067.0,783.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0
+Texas Gas Transmission Co,M5 Back,Tennessee,Mississippi,1042.0,1042.0,758.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Texas Gas Transmission Co,M4 Back,Mississippi,Arkansas,1042.0,1042.0,758.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Texas Gas Transmission Co,M3 Back,Arkansas,Louisiana,1042.0,1042.0,758.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trailblazer Pipeline Co,M1,Colorado,Wyoming,816.0,816.0,816.0,816.0,816.0,816.0,816.0,816.0,816.0,816.0,816.0,816.0
+Trailblazer Pipeline Co,M2,Wyoming,Nebraska,816.0,816.0,816.0,816.0,816.0,816.0,816.0,816.0,816.0,816.0,816.0,816.0
+Trailblazer Pipeline Co,M3,Nebraska,Colorado,816.0,816.0,816.0,816.0,816.0,816.0,816.0,816.0,816.0,816.0,816.0,816.0
+Trailblazer Pipeline Co,M4,Colorado,Nebraska,816.0,816.0,816.0,816.0,816.0,816.0,816.0,816.0,816.0,816.0,816.0,816.0
+Transcolorado Gas Trans Co,M1,Colorado,New Mexico,692.0,692.0,692.0,692.0,692.0,692.0,692.0,692.0,692.0,692.0,692.0,692.0
+Transcolorado Gas Trans Co,M1 Back,New Mexico,Colorado,250.0,250.0,250.0,250.0,250.0,250.0,250.0,250.0,250.0,250.0,250.0,250.0
+Transcontinental Gas P L Co,M1,Gulf of Mexico,Alabama,612.0,612.0,612.0,612.0,612.0,612.0,612.0,612.0,612.0,612.0,612.0,612.0
+Transcontinental Gas P L Co,M2,Gulf of Mexico,Louisiana,2644.0,2644.0,2644.0,2644.0,2644.0,2644.0,2644.0,2644.0,2644.0,2644.0,2644.0,2644.0
+Transcontinental Gas P L Co,M3,Gulf of Mexico,Texas,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0
+Transcontinental Gas P L Co,M4,Texas,Louisiana,810.0,810.0,810.0,810.0,810.0,810.0,810.0,810.0,810.0,810.0,810.0,810.0
+Transcontinental Gas P L Co,M5,Louisiana,Mississippi,3756.0,3756.0,3756.0,3756.0,3756.0,3756.0,3756.0,3756.0,3756.0,3756.0,3756.0,3756.0
+Transcontinental Gas P L Co,M6,Mississippi,Alabama,4047.0,4047.0,4047.0,4047.0,4047.0,4047.0,4047.0,4047.0,4047.0,4047.0,4047.0,4047.0
+Transcontinental Gas P L Co,M7,Alabama,Georgia,4758.0,4758.0,4758.0,4758.0,4758.0,4758.0,4758.0,4663.0,4444.0,4444.0,4444.0,4444.0
+Transcontinental Gas P L Co,M8,Georgia,South Carolina,4199.0,4199.0,4199.0,4199.0,4199.0,4199.0,4199.0,4104.0,3885.0,3885.0,3885.0,3885.0
+Transcontinental Gas P L Co,M9,South Carolina,North Carolina,4006.0,4006.0,4006.0,4006.0,4006.0,4006.0,4006.0,3911.0,3692.0,3692.0,3692.0,3692.0
+Transcontinental Gas P L Co,M10,North Carolina,Virginia,3035.0,3035.0,3035.0,3035.0,3035.0,3035.0,3035.0,3035.0,3035.0,3035.0,3035.0,3035.0
+Transcontinental Gas P L Co,M11,Virginia,Maryland,2265.0,2265.0,2265.0,2265.0,2265.0,2265.0,2265.0,2265.0,2265.0,2265.0,2265.0,2265.0
+Transcontinental Gas P L Co,M12,Maryland,Pennsylvania,2100.0,2100.0,2100.0,2100.0,2100.0,2100.0,2100.0,2100.0,2100.0,2100.0,2100.0,2100.0
+Transcontinental Gas P L Co,M13,Pennsylvania,Delaware,180.0,180.0,180.0,180.0,76.0,76.0,76.0,76.0,76.0,76.0,76.0,76.0
+Transcontinental Gas P L Co,M14,Pennsylvania,New Jersey,4812.0,4812.0,4697.0,4697.0,4697.0,4597.0,4347.0,4347.0,4347.0,4347.0,4285.0,4245.0
+Transcontinental Gas P L Co,M15,New Jersey,New York,1696.0,1696.0,1581.0,1581.0,1581.0,1481.0,1481.0,1481.0,1481.0,1481.0,1481.0,1481.0
+Transcontinental Gas P L Co,M14 Back,New Jersey,Pennsylvania,1921.0,1921.0,1921.0,1921.0,1921.0,1921.0,1921.0,1921.0,1921.0,1921.0,1921.0,1921.0
+Transcontinental Gas P L Co,M12 Back,Pennsylvania,Maryland,2743.0,1443.0,1043.0,851.0,420.0,420.0,420.0,0.0,0.0,0.0,0.0,0.0
+Transcontinental Gas P L Co,M11 Back,Maryland,Virginia,2251.0,1251.0,851.0,851.0,420.0,420.0,420.0,0.0,0.0,0.0,0.0,0.0
+Transcontinental Gas P L Co,M10 Back,Virginia,North Carolina,2513.0,1936.0,1490.0,1490.0,420.0,420.0,420.0,420.0,420.0,420.0,420.0,420.0
+Transcontinental Gas P L Co,M4 Back,Mississippi,Louisiana,1200.0,1200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Transwestern Pipeline Co,M1,Oklahoma,Texas,115.0,115.0,115.0,115.0,115.0,115.0,115.0,115.0,115.0,115.0,115.0,115.0
+Transwestern Pipeline Co,M2,Texas,New Mexico,950.0,950.0,950.0,950.0,950.0,950.0,950.0,950.0,950.0,950.0,950.0,950.0
+Transwestern Pipeline Co,M3,Colorado,New Mexico,500.0,500.0,500.0,500.0,500.0,500.0,500.0,500.0,500.0,500.0,500.0,500.0
+Transwestern Pipeline Co,M4,New Mexico,Arizona,1226.0,1226.0,1226.0,1226.0,1226.0,1226.0,1226.0,1226.0,1226.0,1226.0,1226.0,1226.0
+Transwestern Pipeline Co,M5,Arizona,California,1285.0,1285.0,1285.0,1285.0,1285.0,1285.0,1285.0,1285.0,1285.0,1285.0,1285.0,1285.0
+Transwestern Pipeline Co,M2 Back,New Mexico,Texas,795.0,795.0,795.0,795.0,795.0,795.0,795.0,795.0,795.0,795.0,795.0,795.0
+Trunkline Gas Co,M1,Gulf of Mexico,Louisiana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1747.0,1747.0,1747.0,1747.0,1747.0
+Trunkline Gas Co,M2,Texas,Louisiana,960.0,960.0,960.0,960.0,960.0,960.0,960.0,960.0,960.1,960.1,960.1,960.1
+Trunkline Gas Co,M3,Louisiana,Arkansas,1598.0,1598.0,1598.0,1598.0,1598.0,1598.0,1598.0,1598.0,1598.0,1598.0,1598.0,1598.0
+Trunkline Gas Co,M4,Arkansas,Mississippi,1598.0,1598.0,1598.0,1598.0,1598.0,1598.0,1598.0,1598.0,1598.0,1598.0,1598.0,1598.0
+Trunkline Gas Co,M5,Mississippi,Tennessee,1580.0,1580.0,1580.0,1580.0,1580.0,1580.0,1580.0,1580.0,1580.0,1580.0,1580.0,1580.0
+Trunkline Gas Co,M6,Tennessee,Kentucky,1570.0,1570.0,1570.0,1570.0,1570.0,1570.0,1570.0,1570.0,1570.0,1570.0,1570.0,1570.0
+Trunkline Gas Co,M7,Kentucky,Illinois,1544.0,1544.0,1544.0,1544.0,1544.0,1544.0,1544.0,1544.0,1544.0,1544.0,1544.0,1544.0
+Trunkline Gas Co,M8,Illinois,Indiana,745.0,745.0,745.0,745.0,745.0,745.0,745.0,745.0,745.0,745.0,745.0,745.0
+Trunkline Gas Co,M9,Indiana,Michigan,739.0,739.0,739.0,739.0,739.0,739.0,739.0,739.0,739.0,739.0,739.0,739.0
+Trunkline Gas Co,M7 Back,Illinois,Kentucky,750.0,750.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trunkline Gas Co,M6 Back,Kentucky,Tennessee,750.0,750.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trunkline Gas Co,M5 Back,Tennessee,Mississippi,750.0,750.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tuscarora Pipeline Co,M1,Oregon,California,184.0,184.0,184.0,184.0,184.0,184.0,184.0,184.0,184.0,184.0,184.0,184.0
+Tuscarora Pipeline Co,M2,California,Nevada,162.0,162.0,162.0,162.0,162.0,162.0,162.0,162.0,162.0,162.0,162.0,162.0
+Vector Pipeline Co,M1,Illinois,Indiana,1350.0,1350.0,1350.0,1350.0,1350.0,1350.0,1350.0,1350.0,1350.0,1350.0,1245.0,1245.0
+Vector Pipeline Co,M2,Indiana,Michigan,1350.0,1350.0,1350.0,1350.0,1350.0,1350.0,1350.0,1350.0,1350.0,1350.0,1245.0,1245.0
+Vector Pipeline Co,M3,Michigan,Ontario,1560.0,1560.0,1560.0,1560.0,1560.0,1560.0,1560.0,1560.0,1560.0,1560.0,1245.0,1245.0
+Vector Pipeline Co,M3 Back,Ontario,Michigan,1350.0,1350.0,1350.0,1350.0,1350.0,1350.0,1350.0,1350.0,1350.0,1350.0,1245.0,1245.0
+Viking Gas Transmission Co,M1,Manitoba,Minnesota,516.0,516.0,516.0,516.0,516.0,516.0,516.0,516.0,516.0,516.0,516.0,516.0
+Viking Gas Transmission Co,M2,Minnesota,Wisconsin,437.0,437.0,437.0,437.0,437.0,437.0,437.0,437.0,437.0,437.0,437.0,437.0
+Viking Gas Transmission Co,L1,Minnesota,North Dakota,101.0,101.0,101.0,101.0,101.0,101.0,101.0,101.0,101.0,101.0,63.0,63.0
+WBI Energy Transmission,M1,South Dakota,Wyoming,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0
+WBI Energy Transmission,M2,Wyoming,Montana,421.0,421.0,421.0,421.0,421.0,421.0,421.0,421.0,421.0,421.0,421.0,380.0
+WBI Energy Transmission,M3,Montana,North Dakota,542.0,542.0,542.0,542.0,542.0,542.0,542.0,542.0,542.0,542.0,467.0,426.0
+WBI Energy Transmission,M4,Saskatchewan,North Dakota,46.0,46.0,46.0,46.0,46.0,46.0,46.0,46.0,46.0,46.0,46.0,46.0
+WBI Energy Transmission,M5,North Dakota,South Dakota,54.0,54.0,54.0,54.0,54.0,54.0,54.0,54.0,54.0,54.0,54.0,54.0
+WBI Energy Transmission,M5 Back,South Dakota,North Dakota,53.0,53.0,53.0,53.0,53.0,53.0,53.0,53.0,53.0,53.0,53.0,53.0
+WBI Energy Transmission,M3 Back,North Dakota,Montana,268.0,268.0,268.0,268.0,268.0,268.0,268.0,268.0,268.0,268.0,268.0,268.0
+WBI Energy Transmission,M2 Back,Montana,Wyoming,275.0,275.0,275.0,275.0,275.0,275.0,275.0,275.0,275.0,275.0,275.0,275.0
+WBI Energy Transmission,M1 Back,Wyoming,South Dakota,27.0,27.0,27.0,27.0,27.0,27.0,27.0,27.0,27.0,27.0,27.0,27.0
+Wyoming Interstate Co,M1,Utah,Wyoming,586.0,586.0,586.0,586.0,586.0,586.0,586.0,586.0,586.0,406.0,406.0,406.0
+Wyoming Interstate Co,M2,Colorado,Wyoming,341.0,341.0,341.0,341.0,341.0,341.0,341.0,341.0,341.0,341.0,341.0,341.0
+Wyoming Interstate Co,M3,Wyoming,Colorado,2477.0,2255.0,2255.0,2255.0,2255.0,2255.0,2255.0,2255.0,2255.0,2255.0,2200.0,1870.0

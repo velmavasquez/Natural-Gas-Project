@@ -1,0 +1,39 @@
+Region From,Region To,Capacity (MMcf/d),Year
+Canada,Midwest,6098.0,2018.0
+Canada,Mountain,7192.0,2017.0
+Canada,Northeast,4535.0,2016.0
+Canada,Pacific,1832.0,2015.0
+,,,2014.0
+Gulf of Mexico,South Central,22671.0,2013.0
+,,,2012.0
+Mexico,Pacific,614.0,2011.0
+Mexico,South Central,925.0,2010.0
+,,,2009.0
+Midwest,Canada,4935.0,2008.0
+Midwest,Mountain,228.0,2007.0
+Midwest,Northeast,14322.0,2006.0
+Midwest,South Central,10173.0,2005.0
+Midwest,Southeast,222.0,2004.0
+,,,2003.0
+Mountain,Canada,111.0,2002.0
+Mountain,Mexico,713.0,2001.0
+Mountain,Midwest,8265.0,2000.0
+Mountain,Pacific,13118.0,1999.0
+Mountain,South Central,6269.0,1998.0
+,,,1997.0
+Northeast,Canada,2099.0,1996.0
+Northeast,Midwest,17516.0,1995.0
+Northeast,Southeast,3120.0,1994.0
+,,,1990.0
+Pacific,Canada,51.0,
+Pacific,Mexico,925.0,
+Pacific,Mountain,1397.0,
+,,,
+South Central,Mexico,9457.0,
+South Central,Midwest,21944.0,
+South Central,Mountain,9642.0,
+South Central,Southeast,13058.0,
+,,,
+Southeast,Midwest,151.0,
+Southeast,Northeast,3035.0,
+Southeast,South Central,1700.0,
