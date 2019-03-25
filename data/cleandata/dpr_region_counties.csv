@@ -1,0 +1,316 @@
+,State,County,StateID,CountyID,Region
+0,OK,ALFALFA,35,3,Anadarko Region
+1,OK,BEAVER,35,7,Anadarko Region
+2,OK,BECKHAM,35,9,Anadarko Region
+3,OK,BLAINE,35,11,Anadarko Region
+4,OK,CADDO,35,15,Anadarko Region
+5,OK,CANADIAN,35,17,Anadarko Region
+6,OK,CARTER,35,19,Anadarko Region
+7,OK,CUSTER,35,39,Anadarko Region
+8,OK,DEWEY,35,43,Anadarko Region
+9,OK,ELLIS,35,45,Anadarko Region
+10,OK,GARFIELD,35,47,Anadarko Region
+11,OK,GARVIN,35,49,Anadarko Region
+12,OK,GRADY,35,51,Anadarko Region
+13,OK,KINGFISHER,35,73,Anadarko Region
+14,OK,LINCOLN,35,81,Anadarko Region
+15,OK,LOGAN,35,83,Anadarko Region
+16,OK,MAJOR,35,93,Anadarko Region
+17,OK,MCCLAIN,35,87,Anadarko Region
+18,OK,OKLAHOMA,35,109,Anadarko Region
+19,OK,PAYNE,35,119,Anadarko Region
+20,OK,ROGER MILLS,35,129,Anadarko Region
+21,OK,STEPHENS,35,137,Anadarko Region
+22,OK,TEXAS,35,139,Anadarko Region
+23,OK,WOODS,35,151,Anadarko Region
+24,TX,HEMPHILL,42,211,Anadarko Region
+25,TX,LIPSCOMB,42,295,Anadarko Region
+26,TX,OCHILTREE,42,357,Anadarko Region
+27,TX,ROBERTS,42,393,Anadarko Region
+28,TX,WHEELER,42,483,Anadarko Region
+29,MD,ALLEGANY,19,1,Appalachia Region
+30,MD,GARRETT,19,23,Appalachia Region
+31,NY,ALLEGANY,31,3,Appalachia Region
+32,NY,BROOME,31,7,Appalachia Region
+33,NY,CATTARAUGUS,31,9,Appalachia Region
+34,NY,CHAUTAUQUA,31,13,Appalachia Region
+35,NY,CHEMUNG,31,15,Appalachia Region
+36,NY,ERIE,31,29,Appalachia Region
+37,NY,LIVINGSTON,31,51,Appalachia Region
+38,NY,SCHUYLER,31,97,Appalachia Region
+39,NY,STEUBEN,31,101,Appalachia Region
+40,NY,WYOMING,31,121,Appalachia Region
+41,OH,BELMONT,34,13,Appalachia Region
+42,OH,CARROLL,34,19,Appalachia Region
+43,OH,COLUMBIANA,34,29,Appalachia Region
+44,OH,COSHOCTON,34,31,Appalachia Region
+45,OH,GUERNSEY,34,59,Appalachia Region
+46,OH,HARRISON,34,67,Appalachia Region
+47,OH,HOCKING,34,73,Appalachia Region
+48,OH,JEFFERSON,34,81,Appalachia Region
+49,OH,MAHONING,34,99,Appalachia Region
+50,OH,MONROE,34,111,Appalachia Region
+51,OH,MORGAN,34,115,Appalachia Region
+52,OH,MUSKINGUM,34,119,Appalachia Region
+53,OH,NOBLE,34,121,Appalachia Region
+54,OH,PERRY,34,127,Appalachia Region
+55,OH,PORTAGE,34,133,Appalachia Region
+56,OH,STARK,34,151,Appalachia Region
+57,OH,TRUMBULL,34,155,Appalachia Region
+58,OH,TUSCARAWAS,34,157,Appalachia Region
+59,OH,WASHINGTON,34,167,Appalachia Region
+60,OH,WAYNE,34,169,Appalachia Region
+61,PA,ALLEGHENY,37,3,Appalachia Region
+62,PA,ARMSTRONG,37,5,Appalachia Region
+63,PA,BEAVER,37,7,Appalachia Region
+64,PA,BEDFORD,37,9,Appalachia Region
+65,PA,BLAIR,37,13,Appalachia Region
+66,PA,BRADFORD,37,15,Appalachia Region
+67,PA,BUTLER,37,19,Appalachia Region
+68,PA,CAMBRIA,37,21,Appalachia Region
+69,PA,CAMERON,37,23,Appalachia Region
+70,PA,CENTRE,37,27,Appalachia Region
+71,PA,CLARION,37,31,Appalachia Region
+72,PA,CLEARFIELD,37,33,Appalachia Region
+73,PA,CLINTON,37,35,Appalachia Region
+74,PA,COLUMBIA,37,37,Appalachia Region
+75,PA,CUMBERLAND,37,41,Appalachia Region
+76,PA,ELK,37,47,Appalachia Region
+77,PA,FAYETTE,37,51,Appalachia Region
+78,PA,FOREST,37,53,Appalachia Region
+79,PA,FRANKLIN,37,55,Appalachia Region
+80,PA,GREENE,37,59,Appalachia Region
+81,PA,HUNTINGDON,37,61,Appalachia Region
+82,PA,INDIANA,37,63,Appalachia Region
+83,PA,JEFFERSON,37,65,Appalachia Region
+84,PA,LACKAWANNA,37,69,Appalachia Region
+85,PA,LAWRENCE,37,73,Appalachia Region
+86,PA,LUZERNE,37,79,Appalachia Region
+87,PA,LYCOMING,37,81,Appalachia Region
+88,PA,MCKEAN,37,83,Appalachia Region
+89,PA,MERCER,37,85,Appalachia Region
+90,PA,PIKE,37,103,Appalachia Region
+91,PA,POTTER,37,105,Appalachia Region
+92,PA,SOMERSET,37,111,Appalachia Region
+93,PA,SULLIVAN,37,113,Appalachia Region
+94,PA,SUSQUEHANNA,37,115,Appalachia Region
+95,PA,TIOGA,37,117,Appalachia Region
+96,PA,VENANGO,37,121,Appalachia Region
+97,PA,WARREN,37,123,Appalachia Region
+98,PA,WASHINGTON,37,125,Appalachia Region
+99,PA,WAYNE,37,127,Appalachia Region
+100,PA,WESTMORELAND,37,129,Appalachia Region
+101,PA,WYOMING,37,131,Appalachia Region
+102,WV,BARBOUR,47,1,Appalachia Region
+103,WV,BOONE,47,5,Appalachia Region
+104,WV,BRAXTON,47,7,Appalachia Region
+105,WV,BROOKE,47,9,Appalachia Region
+106,WV,CABELL,47,11,Appalachia Region
+107,WV,CALHOUN,47,13,Appalachia Region
+108,WV,CLAY,47,15,Appalachia Region
+109,WV,DODDRIDGE,47,17,Appalachia Region
+110,WV,FAYETTE,47,19,Appalachia Region
+111,WV,GILMER,47,21,Appalachia Region
+112,WV,GRANT,47,23,Appalachia Region
+113,WV,GREENBRIER,47,25,Appalachia Region
+114,WV,HAMPSHIRE,47,27,Appalachia Region
+115,WV,HANCOCK,47,29,Appalachia Region
+116,WV,HARDY,47,31,Appalachia Region
+117,WV,HARRISON,47,33,Appalachia Region
+118,WV,JACKSON,47,35,Appalachia Region
+119,WV,KANAWHA,47,39,Appalachia Region
+120,WV,LEWIS,47,41,Appalachia Region
+121,WV,LINCOLN,47,43,Appalachia Region
+122,WV,LOGAN,47,45,Appalachia Region
+123,WV,MARION,47,49,Appalachia Region
+124,WV,MARSHALL,47,51,Appalachia Region
+125,WV,MASON,47,53,Appalachia Region
+126,WV,MCDOWELL,47,47,Appalachia Region
+127,WV,MERCER,47,55,Appalachia Region
+128,WV,MINERAL,47,57,Appalachia Region
+129,WV,MINGO,47,59,Appalachia Region
+130,WV,MONONGALIA,47,61,Appalachia Region
+131,WV,MONROE,47,63,Appalachia Region
+132,WV,MORGAN,47,65,Appalachia Region
+133,WV,NICHOLAS,47,67,Appalachia Region
+134,WV,OHIO,47,69,Appalachia Region
+135,WV,PENDLETON,47,71,Appalachia Region
+136,WV,PLEASANTS,47,73,Appalachia Region
+137,WV,POCAHONTAS,47,75,Appalachia Region
+138,WV,PRESTON,47,77,Appalachia Region
+139,WV,PUTNAM,47,79,Appalachia Region
+140,WV,RALEIGH,47,81,Appalachia Region
+141,WV,RANDOLPH,47,83,Appalachia Region
+142,WV,RITCHIE,47,85,Appalachia Region
+143,WV,ROANE,47,87,Appalachia Region
+144,WV,SUMMERS,47,89,Appalachia Region
+145,WV,TAYLOR,47,91,Appalachia Region
+146,WV,TUCKER,47,93,Appalachia Region
+147,WV,TYLER,47,95,Appalachia Region
+148,WV,UPSHUR,47,97,Appalachia Region
+149,WV,WAYNE,47,99,Appalachia Region
+150,WV,WEBSTER,47,101,Appalachia Region
+151,WV,WETZEL,47,103,Appalachia Region
+152,WV,WIRT,47,105,Appalachia Region
+153,WV,WOOD,47,107,Appalachia Region
+154,WV,WYOMING,47,109,Appalachia Region
+155,MT,DAWSON,25,21,Bakken Region
+156,MT,MCCONE,25,55,Bakken Region
+157,MT,RICHLAND,25,83,Bakken Region
+158,MT,ROOSEVELT,25,85,Bakken Region
+159,MT,SHERIDAN,25,91,Bakken Region
+160,ND,BILLINGS,33,7,Bakken Region
+161,ND,BOTTINEAU,33,9,Bakken Region
+162,ND,BURKE,33,13,Bakken Region
+163,ND,DIVIDE,33,23,Bakken Region
+164,ND,DUNN,33,25,Bakken Region
+165,ND,GOLDEN VALLEY,33,33,Bakken Region
+166,ND,MCHENRY,33,49,Bakken Region
+167,ND,MCKENZIE,33,53,Bakken Region
+168,ND,MCLEAN,33,55,Bakken Region
+169,ND,MERCER,33,57,Bakken Region
+170,ND,MOUNTRAIL,33,61,Bakken Region
+171,ND,RENVILLE,33,75,Bakken Region
+172,ND,STARK,33,89,Bakken Region
+173,ND,WARD,33,101,Bakken Region
+174,ND,WILLIAMS,33,105,Bakken Region
+175,TX,ATASCOSA,42,13,Eagle Ford Region
+176,TX,BASTROP,42,21,Eagle Ford Region
+177,TX,BEE,42,25,Eagle Ford Region
+178,TX,BRAZOS,42,41,Eagle Ford Region
+179,TX,BURLESON,42,51,Eagle Ford Region
+180,TX,DEWITT,42,123,Eagle Ford Region
+181,TX,DIMMIT,42,127,Eagle Ford Region
+182,TX,FAYETTE,42,149,Eagle Ford Region
+183,TX,FRIO,42,163,Eagle Ford Region
+184,TX,GONZALES,42,177,Eagle Ford Region
+185,TX,KARNES,42,255,Eagle Ford Region
+186,TX,LA SALLE,42,283,Eagle Ford Region
+187,TX,LAVACA,42,285,Eagle Ford Region
+188,TX,LEE,42,287,Eagle Ford Region
+189,TX,LEON,42,289,Eagle Ford Region
+190,TX,LIVE OAK,42,297,Eagle Ford Region
+191,TX,MADISON,42,313,Eagle Ford Region
+192,TX,MAVERICK,42,323,Eagle Ford Region
+193,TX,MCMULLEN,42,311,Eagle Ford Region
+194,TX,MILAM,42,331,Eagle Ford Region
+195,TX,WEBB,42,479,Eagle Ford Region
+196,TX,WILSON,42,493,Eagle Ford Region
+197,TX,ZAVALA,42,507,Eagle Ford Region
+198,AR,COLUMBIA,3,27,Haynesville Region
+199,AR,LAFAYETTE,3,73,Haynesville Region
+200,LA,BIENVILLE,17,13,Haynesville Region
+201,LA,BOSSIER,17,15,Haynesville Region
+202,LA,CADDO,17,17,Haynesville Region
+203,LA,CLAIBORNE,17,27,Haynesville Region
+204,LA,DE SOTO,17,31,Haynesville Region
+205,LA,NATCHITOCHES,17,69,Haynesville Region
+206,LA,RED RIVER,17,81,Haynesville Region
+207,LA,SABINE,17,85,Haynesville Region
+208,LA,UNION,17,111,Haynesville Region
+209,LA,WEBSTER,17,119,Haynesville Region
+210,TX,ANGELINA,42,5,Haynesville Region
+211,TX,CHEROKEE,42,73,Haynesville Region
+212,TX,GREGG,42,183,Haynesville Region
+213,TX,HARRISON,42,203,Haynesville Region
+214,TX,MARION,42,315,Haynesville Region
+215,TX,NACOGDOCHES,42,347,Haynesville Region
+216,TX,PANOLA,42,365,Haynesville Region
+217,TX,RUSK,42,401,Haynesville Region
+218,TX,SABINE,42,403,Haynesville Region
+219,TX,SAN AUGUSTINE,42,405,Haynesville Region
+220,TX,SHELBY,42,419,Haynesville Region
+221,TX,SMITH,42,423,Haynesville Region
+222,TX,UPSHUR,42,459,Haynesville Region
+223,CO,ADAMS,5,1,Niobrara Region
+224,CO,ARAPAHOE,5,5,Niobrara Region
+225,CO,BOULDER,5,13,Niobrara Region
+226,CO,BROOMFIELD,5,14,Niobrara Region
+227,CO,CHEYENNE,5,17,Niobrara Region
+228,CO,GARFIELD,5,45,Niobrara Region
+229,CO,JACKSON,5,57,Niobrara Region
+230,CO,JEFFERSON,5,59,Niobrara Region
+231,CO,KIT CARSON,5,63,Niobrara Region
+232,CO,LARIMER,5,69,Niobrara Region
+233,CO,LOGAN,5,75,Niobrara Region
+234,CO,MESA,5,77,Niobrara Region
+235,CO,MOFFAT,5,81,Niobrara Region
+236,CO,MORGAN,5,87,Niobrara Region
+237,CO,PHILLIPS,5,95,Niobrara Region
+238,CO,RIO BLANCO,5,103,Niobrara Region
+239,CO,ROUTT,5,107,Niobrara Region
+240,CO,SEDGWICK,5,115,Niobrara Region
+241,CO,WASHINGTON,5,121,Niobrara Region
+242,CO,WELD,5,123,Niobrara Region
+243,CO,YUMA,5,125,Niobrara Region
+244,KS,CHEYENNE,15,23,Niobrara Region
+245,KS,SHERMAN,15,181,Niobrara Region
+246,NE,CHEYENNE,26,33,Niobrara Region
+247,NE,DEUEL,26,49,Niobrara Region
+248,NE,GARDEN,26,69,Niobrara Region
+249,WY,ALBANY,49,1,Niobrara Region
+250,WY,CAMPBELL,49,5,Niobrara Region
+251,WY,CARBON,49,7,Niobrara Region
+252,WY,CONVERSE,49,9,Niobrara Region
+253,WY,GOSHEN,49,15,Niobrara Region
+254,WY,JOHNSON,49,19,Niobrara Region
+255,WY,LARAMIE,49,21,Niobrara Region
+256,WY,NATRONA,49,25,Niobrara Region
+257,WY,NIOBRARA,49,27,Niobrara Region
+258,WY,PLATTE,49,31,Niobrara Region
+259,WY,WESTON,49,45,Niobrara Region
+260,NM,CHAVES,30,5,Permian Region
+261,NM,EDDY,30,15,Permian Region
+262,NM,LEA,30,25,Permian Region
+263,NM,ROOSEVELT,30,41,Permian Region
+264,TX,ANDREWS,42,3,Permian Region
+265,TX,BAILEY,42,17,Permian Region
+266,TX,BORDEN,42,33,Permian Region
+267,TX,COCHRAN,42,79,Permian Region
+268,TX,COKE,42,81,Permian Region
+269,TX,CONCHO,42,95,Permian Region
+270,TX,CRANE,42,103,Permian Region
+271,TX,CROCKETT,42,105,Permian Region
+272,TX,CROSBY,42,107,Permian Region
+273,TX,CULBERSON,42,109,Permian Region
+274,TX,DAWSON,42,115,Permian Region
+275,TX,DICKENS,42,125,Permian Region
+276,TX,ECTOR,42,135,Permian Region
+277,TX,EDWARDS,42,137,Permian Region
+278,TX,FISHER,42,151,Permian Region
+279,TX,FLOYD,42,153,Permian Region
+280,TX,GAINES,42,165,Permian Region
+281,TX,GARZA,42,169,Permian Region
+282,TX,GLASSCOCK,42,173,Permian Region
+283,TX,HALE,42,189,Permian Region
+284,TX,HOCKLEY,42,219,Permian Region
+285,TX,HOWARD,42,227,Permian Region
+286,TX,IRION,42,235,Permian Region
+287,TX,KENT,42,263,Permian Region
+288,TX,KIMBLE,42,267,Permian Region
+289,TX,LAMB,42,279,Permian Region
+290,TX,LOVING,42,301,Permian Region
+291,TX,LUBBOCK,42,303,Permian Region
+292,TX,LYNN,42,305,Permian Region
+293,TX,MARTIN,42,317,Permian Region
+294,TX,MENARD,42,327,Permian Region
+295,TX,MIDLAND,42,329,Permian Region
+296,TX,MITCHELL,42,335,Permian Region
+297,TX,MOTLEY,42,345,Permian Region
+298,TX,NOLAN,42,353,Permian Region
+299,TX,PECOS,42,371,Permian Region
+300,TX,REAGAN,42,383,Permian Region
+301,TX,REAL,42,385,Permian Region
+302,TX,REEVES,42,389,Permian Region
+303,TX,SCHLEICHER,42,413,Permian Region
+304,TX,SCURRY,42,415,Permian Region
+305,TX,STERLING,42,431,Permian Region
+306,TX,SUTTON,42,435,Permian Region
+307,TX,TERRELL,42,443,Permian Region
+308,TX,TERRY,42,445,Permian Region
+309,TX,TOM GREEN,42,451,Permian Region
+310,TX,UPTON,42,461,Permian Region
+311,TX,VAL VERDE,42,465,Permian Region
+312,TX,WARD,42,475,Permian Region
+313,TX,WINKLER,42,495,Permian Region
+314,TX,YOAKUM,42,501,Permian Region
