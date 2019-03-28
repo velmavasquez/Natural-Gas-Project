@@ -232,7 +232,7 @@ def f_EIA_PlotData_Stack_Range(list_series,url,eia_api_key,title,ini_date,end_da
         ax.set_ylabel(unit, rotation=0, labelpad=20)
 
         if flag:
-            maxx = max(valx); minx = min(valx); maxy = max(valy); miny = min(valy);
+            maxx = max(valx); minx = min(valx); maxy = max(valy); miny = min(valy)
             flag = False
             y = valy
             vlabel = [label]
@@ -254,7 +254,7 @@ def f_EIA_PlotData_Stack_Range(list_series,url,eia_api_key,title,ini_date,end_da
         
     print(vlabel)   
     ax.stackplot(valx,y,labels=vlabel)
-    ax.legend(loc='upper left')
+    #ax.legend(loc='upper left')
     
     plt.show()
 
