@@ -20,6 +20,16 @@ from matplotlib.colors import to_hex
 
 from census import Census
 
+def f_strToDate(ini_date):
+    
+    strg = ini_date
+    ch = "-"
+    vpos = [pos for pos, char in enumerate(strg) if char == ch]
+    year = int(strg[:vpos[0]])
+    month = int(strg[vpos[0]+1:vpos[1]])
+    day = int(strg[vpos[1]+1:])
+    
+    return datetime(year,month,day).date()
 
 def f_EIA_ExtractData(url,eia_api_key,series_id):
     query = f"{url}?api_key={eia_api_key}&series_id={series_id}"
@@ -30,27 +40,56 @@ def f_EIA_ExtractData(url,eia_api_key,series_id):
     valx = []
     valy = []
     df  = pd.DataFrame(response["series"][0]["data"])
-    df = df.dropna(how='any')    
-    #print(df)   
+    df = df.dropna(how='any')
+    #print(df)
     
     for item, row in df.iterrows():
         vx = row.iloc[0]
         vy = row.iloc[1]
         if series_id[-1]=="M":
-            date_str = vx[4:]+"/15/"+vx[:4]
+            #date_str = vx[4:]+"/15/"+vx[:4]
+            date_str = vx[:4]+"/"+vx[4:]+"/1"            
         elif series_id[-1]=="A":
-            date_str = "6/15/"+vx[:4]
+            #date_str = "6/15/"+vx[:4]
+            date_str = vx+"/6/1"
+        elif series_id[-1]=="D":
+            date_str = vx[:4]+"/"+vx[4:6]+"/"+vx[6:]
         
-        date_object = datetime.strptime(date_str,'%m/%d/%Y').date()
+        #date_object = datetime.strptime(date_str,'%m/%d/%Y').date()
+        date_object = datetime.strptime(date_str,'%Y/%m/%d').date()
         #print(f"{(date_object)} , {float(x[1])}")
         valx.append(date_object)
         valy.append(float(vy))
 
     title = response["series"][0]["name"]
-    country = response["series"][0]["geography"]
+    try:
+        country = response["series"][0]["geography"]
+    except:
+        country ="US"
+    #if series_id[-1]=="D":
+    #    country ="US"
+    #else:
+    #    country = response["series"][0]["geography"]
     unit = response["series"][0]["units"]
     
     return valx, valy, title, country, unit
+
+def f_EIA_ExtractData_Range(url,eia_api_key,series_id,ini_date,end_date):
+
+    ini_date_d = f_strToDate(ini_date)
+    end_date_d = f_strToDate(end_date)
+    
+    valx, valy, title, country, unit = f_EIA_ExtractData(url,eia_api_key,series_id)
+
+    valx_upt = [];     valy_upt = []
+    index = 0
+    for x in valx:    
+        if  (x>=ini_date_d) & (x<=end_date_d):
+            valx_upt.append(x)
+            valy_upt.append(valy[index])
+        index +=1
+
+    return valx_upt, valy_upt, title, country, unit
 
 
 def f_EIA_ListSeries(url,eia_api_key,category_id):
@@ -98,7 +137,7 @@ def f_EIA_PlotData(list_series,url,eia_api_key,title):
         ax.set_ylabel(unit, rotation=0, labelpad=20)
 
         if flag:
-            maxx = max(valx); minx = min(valx); maxy = max(valy);
+            maxx = max(valx); minx = min(valx); maxy = max(valy); miny = min(valy);
             flag = False
         else:        
             if maxx < max(valx):
@@ -107,11 +146,251 @@ def f_EIA_PlotData(list_series,url,eia_api_key,title):
                 minx = min(valx)
             if maxy < max(valy):
                 maxy = max(valy)
+            if miny > min(valy):
+                miny = min(valy)
 
-        ax.set_xlim(minx, maxx); ax.set_ylim(0, maxy + 2)
+        ax.set_xlim(minx, maxx); ax.set_ylim(miny, maxy + 2)
         c=next(color)
         ax.plot(valx,valy, linewidth=2,color=c,label=label)
         ax.legend(loc='upper left')
+    
+    plt.show()
+
+def f_EIA_PlotData_Range(list_series,url,eia_api_key,title,ini_date,end_date):    
+    large = 16; med = 12.5; small = 11
+    params = {'axes.titlesize': med,
+              'legend.fontsize': small,
+              'figure.figsize': (15, 5),
+              'axes.labelsize': med,
+              'axes.titlesize': med,
+              'xtick.labelsize': med,
+              'ytick.labelsize': med,
+              'figure.titlesize': large}
+    plt.rcParams.update(params)
+    plt.style.use('seaborn-whitegrid')
+    sns.set_style("white")
+
+    fig, ax = plt.subplots()
+
+    ax.yaxis.set_label_coords(0.00,1.03)
+    ax.yaxis.grid(True)
+
+    color=iter(cm.rainbow(np.linspace(0,1,len(list_series))))
+    flag = True
+
+    for series_id in list_series:
+        valx, valy, label, country, unit = f_EIA_ExtractData_Range(url,eia_api_key,series_id,ini_date,end_date)
+        fig.suptitle(title, fontweight="bold")
+        ax.set_ylabel(unit, rotation=0, labelpad=20)
+
+        if flag:
+            maxx = max(valx); minx = min(valx); maxy = max(valy); miny = min(valy);
+            flag = False
+        else:        
+            if maxx < max(valx):
+                maxx = max(valx)
+            if minx > min(valx):
+                minx = min(valx)
+            if maxy < max(valy):
+                maxy = max(valy)
+            if miny > min(valy):
+                miny = min(valy)
+
+        ax.set_xlim(minx, maxx); ax.set_ylim(miny, maxy + 2)
+        c=next(color)
+        ax.plot(valx,valy, linewidth=2,color=c,label=label)
+        ax.legend(loc='upper left')
+    
+    plt.show()
+
+
+def f_EIA_PlotData_Stack_Range(list_series,url,eia_api_key,title,ini_date,end_date):    
+    large = 16; med = 12.5; small = 11
+    params = {'axes.titlesize': med,
+              'legend.fontsize': small,
+              'figure.figsize': (15, 5),
+              'axes.labelsize': med,
+              'axes.titlesize': med,
+              'xtick.labelsize': med,
+              'ytick.labelsize': med,
+              'figure.titlesize': large}
+    plt.rcParams.update(params)
+    plt.style.use('seaborn-whitegrid')
+    sns.set_style("white")
+
+    fig, ax = plt.subplots()
+
+    ax.yaxis.set_label_coords(0.00,1.03)
+    ax.yaxis.grid(True)
+
+    color=iter(cm.rainbow(np.linspace(0,1,len(list_series))))
+    flag = True
+
+    for series_id in list_series:
+        valx, valy, label, country, unit = f_EIA_ExtractData_Range(url,eia_api_key,series_id,ini_date,end_date)
+        fig.suptitle(title, fontweight="bold")
+        ax.set_ylabel(unit, rotation=0, labelpad=20)
+
+        if flag:
+            maxx = max(valx); minx = min(valx); maxy = max(valy); miny = min(valy);
+            flag = False
+            y = valy
+            vlabel = [label]
+        else:        
+            if maxx < max(valx):
+                maxx = max(valx)
+            if minx > min(valx):
+                minx = min(valx)
+            if maxy < max(valy):
+                maxy = max(valy)
+            if miny > min(valy):
+                miny = min(valy)
+            y = np.vstack([y,valy])
+            vlabel.append(label)
+
+        #ax.set_xlim(minx, maxx); ax.set_ylim(miny, maxy + 2)
+        c=next(color)
+        #ax.plot(valx,valy, linewidth=2,color=c,label=label)
+        
+    print(vlabel)   
+    ax.stackplot(valx,y,labels=vlabel)
+    ax.legend(loc='upper left')
+    
+    plt.show()
+
+def f_EIA_PlotData_Mod_Range(list_series,list_series_sec,url,eia_api_key,title,ini_date,end_date):
+    large = 16; med = 12.5; small = 11
+    params = {'axes.titlesize': med,
+              'legend.fontsize': small,
+              'figure.figsize': (15, 5),
+              'axes.labelsize': med,
+              'axes.titlesize': med,
+              'xtick.labelsize': med,
+              'ytick.labelsize': med,
+              'figure.titlesize': large}
+    plt.rcParams.update(params)
+    plt.style.use('seaborn-whitegrid')
+    sns.set_style("white")
+
+    fig, ax = plt.subplots()
+    
+    ax.yaxis.set_label_coords(0.00,1.03)
+    ax.yaxis.grid(True)
+
+    color=iter(cm.rainbow(np.linspace(0,1,len(list_series)+len(list_series_sec))))
+    flag = True
+
+    for series_id in list_series:
+        valx, valy, label, country, unit = f_EIA_ExtractData_Range(url,eia_api_key,series_id,ini_date,end_date)    
+        fig.suptitle(title, fontweight="bold")
+        ax.set_ylabel(unit, rotation=0, labelpad=20)
+
+        if flag:
+            maxx = max(valx); minx = min(valx); maxy = max(valy); miny = min(valy)
+            flag = False
+        else:
+            if maxx < max(valx):
+                maxx = max(valx)
+            if minx > min(valx):
+                minx = min(valx)
+            if maxy < max(valy):
+                maxy = max(valy)
+            if miny > min(valy):
+                miny = min(valy)
+
+        ax.set_xlim(minx, maxx); ax.set_ylim(miny, maxy + 2)
+        c=next(color)
+        ax.plot(valx,valy, linewidth=2,color=c,label=label)
+        ax.legend(loc='upper left')
+    
+    ax_sec = ax.twinx()
+    
+    for series_id in list_series_sec:
+        valx, valy, label, country, unit = f_EIA_ExtractData_Range(url,eia_api_key,series_id,ini_date,end_date)    
+        #fig.suptitle(title, fontweight="bold")
+        #ax.set_ylabel(unit, rotation=0, labelpad=20)
+
+        if maxx < max(valx):
+            maxx = max(valx)
+        if minx > min(valx):
+            minx = min(valx)
+        if maxy < max(valy):
+            maxy = max(valy)
+        if miny > min(valy):
+            miny = min(valy)
+
+        #ax_sec.set_xlim(minx, maxx); ax_sec.set_ylim(miny, maxy + 2)
+        c=next(color)
+        ax_sec.plot(valx,valy, linewidth=2,color=c,label=label)
+        ax_sec.legend(loc='center left') 
+    
+    plt.show()
+
+def f_EIA_PlotData_Mod(list_series,list_series_sec,url,eia_api_key,title):    
+    large = 16; med = 12.5; small = 11
+    params = {'axes.titlesize': med,
+              'legend.fontsize': small,
+              'figure.figsize': (15, 5),
+              'axes.labelsize': med,
+              'axes.titlesize': med,
+              'xtick.labelsize': med,
+              'ytick.labelsize': med,
+              'figure.titlesize': large}
+    plt.rcParams.update(params)
+    plt.style.use('seaborn-whitegrid')
+    sns.set_style("white")
+
+    fig, ax = plt.subplots()
+    
+    ax.yaxis.set_label_coords(0.00,1.03)
+    ax.yaxis.grid(True)
+
+    color=iter(cm.rainbow(np.linspace(0,1,len(list_series)+len(list_series_sec))))
+    flag = True
+
+    for series_id in list_series:
+        valx, valy, label, country, unit = f_EIA_ExtractData(url,eia_api_key,series_id)    
+        fig.suptitle(title, fontweight="bold")
+        ax.set_ylabel(unit, rotation=0, labelpad=20)
+
+        if flag:
+            maxx = max(valx); minx = min(valx); maxy = max(valy); miny = min(valy)
+            flag = False
+        else:        
+            if maxx < max(valx):
+                maxx = max(valx)
+            if minx > min(valx):
+                minx = min(valx)
+            if maxy < max(valy):
+                maxy = max(valy)
+            if miny > min(valy):
+                miny = min(valy)
+
+        ax.set_xlim(minx, maxx); ax.set_ylim(miny, maxy + 2)
+        c=next(color)
+        ax.plot(valx,valy, linewidth=2,color=c,label=label)
+        ax.legend(loc='upper left')
+    
+    ax_sec = ax.twinx()
+    
+    for series_id in list_series_sec:
+        valx, valy, label, country, unit = f_EIA_ExtractData(url,eia_api_key,series_id)    
+        #fig.suptitle(title, fontweight="bold")
+        #ax.set_ylabel(unit, rotation=0, labelpad=20)
+
+        if maxx < max(valx):
+            maxx = max(valx)
+        if minx > min(valx):
+            minx = min(valx)
+        if maxy < max(valy):
+            maxy = max(valy)
+        if miny > min(valy):
+            miny = min(valy)
+
+        #ax_sec.set_xlim(minx, maxx); ax_sec.set_ylim(miny, maxy + 2)
+        c=next(color)
+        ax_sec.plot(valx,valy, linewidth=2,color=c,label=label)
+        ax_sec.legend(loc='center left') 
     
     plt.show()
 
@@ -263,9 +542,10 @@ def f_PlotData(valx, valy, title, unit):
     ax.yaxis.set_label_coords(0.09,1.03)
     ax.yaxis.grid(True)
 
-    ax.plot(valx,valy, linewidth=2,color="Slateblue")
-    plt.show()
-    
+    ax.plot(valx,valy, linewidth=2,color="Slateblue",label=title)
+    ax.legend(loc='upper left')
+    #plt.show()
+
     return fig, ax
 
 def diff_month(d1, d2):
