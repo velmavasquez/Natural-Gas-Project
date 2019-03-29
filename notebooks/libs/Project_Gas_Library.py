@@ -8,6 +8,8 @@ import seaborn as sns
 import gmaps
 import gmaps.geojson_geometries
 
+from statsmodels.tsa.stattools import acf, pacf, adfuller, kpss
+
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 from calendar import monthrange
@@ -16,6 +18,7 @@ from matplotlib.pyplot import cm
 from pprint import pprint
 
 from matplotlib.cm import viridis
+from matplotlib.cm import pink
 from matplotlib.colors import to_hex
 
 from census import Census
@@ -324,7 +327,7 @@ def f_EIA_PlotData_Mod_Range(list_series,list_series_sec,url,eia_api_key,title,i
         ax_sec.plot(valx,valy, linewidth=2,color=c,label=label)
         ax_sec.legend(loc='center left') 
     
-    plt.show()
+    #plt.show()
 
 def f_EIA_PlotData_Mod(list_series,list_series_sec,url,eia_api_key,title):    
     large = 16; med = 12.5; small = 11
@@ -562,6 +565,51 @@ def calculate_color(par,min_par,max_par):
     inverse_par = 1.0 - normalized_par
     # transform the gini coefficient to a matplotlib color
     mpl_color = viridis(inverse_par)
+    # transform from a matplotlib color to a valid CSS color
+    gmaps_color = to_hex(mpl_color, keep_alpha=False)
+    return gmaps_color
+
+
+def adf(ts):
+    
+    # Determing rolling statistics    
+    ts_t = pd.Series.rolling(ts, window=12)
+    rolmean = ts_t.mean()
+    rolstd = ts_t.std()
+
+    #Plot rolling statistics:
+    orig = plt.plot(ts, color='blue',label='Original')
+    mean = plt.plot(rolmean, color='red', label='Rolling Mean')
+    std = plt.plot(rolstd, color='black', label = 'Rolling Std')
+    plt.legend(loc='best')
+    plt.title('Rolling Mean & Standard Deviation')
+    plt.show(block=False)
+    
+    # Calculate ADF factors
+    adftest = adfuller(ts, autolag='AIC')
+    adfoutput = pd.Series(adftest[0:4], index=['Test Statistic','p-value','# of Lags Used',
+                                              'Number of Observations Used'])
+    for key,value in adftest[4].items():
+        adfoutput['Critical Value (%s)'%key] = value
+    return adfoutput
+
+def RMSE(predicted, actual):
+    mse = (predicted - actual)**2
+    rmse = np.sqrt(mse.sum()/mse.count())
+    return rmse
+
+
+def calculate_color_1(par,min_par,max_par):
+    #"""
+    #Convert the par to a color
+    #"""
+    # make par a number between 0 and 1
+    range_par = max_par - min_par
+    normalized_par = (par - min_par) / range_par
+    # invert gini so that high inequality gives dark color
+    inverse_par = 1.0 - normalized_par
+    # transform the gini coefficient to a matplotlib color
+    mpl_color = pink(inverse_par)
     # transform from a matplotlib color to a valid CSS color
     gmaps_color = to_hex(mpl_color, keep_alpha=False)
     return gmaps_color
